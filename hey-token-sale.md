@@ -1,0 +1,74 @@
+---
+description: >-
+  Please note that figures on this page are still subject to change up until the
+  public ICO start date.
+---
+
+# HEY token sale
+
+### Token Sale
+
+The token sale will launch in December 2018 using an ERC20 token standard. We will release a fixed number of 150 million HEY tokens for public sale, corresponding to 50% of the total supply. The remaining token supply will be further locked up \(with 30% notably locked in the rewards pool\).
+
+The token sale will end either on a pre-set date or, if prior to this date, when the 150-million-token hard cap is reached. The smart contracts acquisition will then be closed. Investors will have the possibility of keeping their HEY tokens in any ERC20-compatible wallet until further exchange listing.
+
+### Key token parameters
+
+| Key token parameters | Values |
+| :--- | :--- |
+| Symbol | HEY |
+| Protocol | Ethereum |
+| Token standard | ERC20 |
+| Decimals | 18 |
+| Total supply | 300 000 000 HEY \(of which 50% circulating\) |
+
+### Key ICO figures
+
+| Key ICO figures | Values |
+| :--- | :--- |
+| ICO start | 3rd of December 2018 |
+| ICO end | 31st of January 2019 \(included\) |
+| Supply for sale | 150 000 000 HEY |
+| Currencies accepted | ETH |
+| Price | 4 000 HEY = 1 ETH |
+| Minimum contribution | 0.1 ETH |
+| Hard cap | 150 000 000 HEY \(37 500 ETH\)  |
+| Soft cap | 30 000 000 HEY \(20% of hard cap, 7 500 ETH\) |
+
+### Early heroes incentives
+
+So as to reward early believers in the Hey platform, the smart contract will allow for the following incentives in days before and during the ICO:
+
+| Phase | HEY bonus | Minimum contribution |
+| :--- | :--- | :--- |
+| Pre-ico | ~~25%~~ | ~~10 ETH~~ |
+| Pre-ico | ~~30%~~ | ~~20 ETH~~ |
+| ICO day 1 | ~~10%~~ | ~~2.5 ETH~~ |
+
+### Token Distribution
+
+| **Percentage** | **Allocation**  | **Date of Issue** |
+| :--- | :--- | :--- |
+| 50% | Public Token sale | Token Distribution Event \(ICO\) |
+| 30% | Pool | Regularly, based on distribution formula. For users rewarding purposes. |
+| 10% | HEY team | Vested yearly, over a 2-year period, to guarantee the Hey team’s complete involvement in the project. |
+| 5% | Early investors | Vested yearly, over a 2-year period, proportionately to their initial investment. |
+| 3% | Contributors | Token Distribution Event \(ICO\) – to translators, designers, marketers, and early contributors who helped us build the project. |
+| 2% | Advisors | Vested yearly, over a 2-year period, to experienced people who provided their time and advice. |
+
+### KYC process
+
+The ICO KYC process will rely on ~~XXXX's off-the-shelf KYC solution~~. We are convinced that contributors will reckon the need for an industry-standard KYC process to guarantee the quality of the initial community. All countries are welcome to participate in KYC except for ~~the USA, China, and North Korea.~~
+
+### Exchange listing
+
+The Hey team will initiate discussions with potential exchange partners to secure a listing in the months after the ICO end. Having an efficient exchange will be key to fulfilling the Hey vision of circular economics where advertisers can buy tokens in exchange for ads displays, ultimately contributing to the rewards pool.
+
+### Post-ICO Token Allocation
+
+As indicated in the [Tokenomics](https://manifesto.get-hey.com/hey-token) section, we will distribute a predetermined portion of the pool to Hey’s most active and credentialed users. Hence, there are 3 ways one can obtain HEY tokens:
+
+* Buying them during the ICO
+* Buying them on exchange platforms after the ICO
+* Earning them through our reward and referral programs
+
