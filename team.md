@@ -38,9 +38,9 @@ Robin started to hack at 10 years old. Through trojans and exploits, he learned 
 
 Thomas is a freelance software developer with a PhD in high-energy physics and a passion for entrepreneurship. He specialises in solving business challenges through data modeling and process simulation.
 
-### Alexander Stevens, Legal Counsel
+### Alexander Stevens, Legal Engineer
 
 [https://www.linkedin.com/in/alexander-l-c-stevens-14aabb4b/](https://www.linkedin.com/in/alexander-l-c-stevens-14aabb4b/)
 
-Alexander graduated from Harvard Law School and worked as a corporate lawyer for a U.S. law firm prior to joining the Hey team.
+Alexander is a legal engineer focusing on smart contracts and a New York licensed attorney. He graduated from Harvard Law School and the Free University of Brussels.
 
