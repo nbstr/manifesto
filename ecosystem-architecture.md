@@ -8,7 +8,7 @@ We understand that the decision might be polarizing, but have strong rationales 
 
 ### Security and Transparency
 
-The Hey community as a whole will ultimately generate value for its members, as well as for other stakeholders \(e.g. advertisers\) who bear interest in capturing its attention. We recognize this value and  have chosen to monetize it via the HEY token. Overtime, as the community grows, so would the value for all stakeholders.
+The Hey community as a whole will ultimately generate value for its members, as well as for other stakeholders \(e.g. advertisers\) who bear interest in capturing its attention. We recognize this value and  have chosen to monetize it via the HEY token. Overtime, as the community grows, so will the value for all stakeholders.
 
 It is important to us that users can enjoy maximum protection while exercising control over the value they generate. With built-in cryptographic controls, Blockchain allows the entire Hey community to enjoy the most secure environment modern technology can provide.
 
@@ -18,31 +18,31 @@ These elements of security and transparency are core to the Hey product, and we'
 
 ### Efficient Assets and Transactions Management
 
-All community contributions in the Hey ecosystem are rewarded with HEY tokens. This gives rise to a significant number of micro-transactions throughout the network.
+All community contributions within the Hey ecosystem are rewarded with HEY tokens. This gives rise to a significant number of micro-transactions throughout the network.
 
-Given the transaction fees and complexity associated with fiat currency, managing value flows with fiat is clearly a no-go here. We thus need to rely on an alternate form of currency. In this respect, Blockchain's built-in support for asset and transaction management makes it a very attractive tool to handle Hey's value flows.
+Given the transaction fees and complexity associated with fiat currency, managing value flows with fiat is clearly a no-go here. Rather, we need to rely on an alternate form of currency that can easily handle asset and transaction management. In this respect, Blockchain's built-in support for both issues makes it a very attractive tool to handle Hey's value flows. 
 
-We believe that using Blockchain will significantly accelerate velocity of growth for the Hey product. Thanks to these built-in functionalities, there's no need to build a value protocol ourselves. Instead, we can focus on building new, more specific features to captivate and engage our users.
+In addition to assisting with asset and transaction management, we believe that using Blockchain will significantly accelerate Hey's growth velocity. Thanks to the built-in functionalities outlined above, there's no need to build a value protocol ourselves. This will save a significant amount of man-hours and other valuable resources. Blockchain allows us, instead, to focus on building new, more specific features to captivate and engage our users.
 
 ### Aligned Technical and Social Incentives
 
-Blockchain's unique advantages of security and transparency are due in part to its unique distributed nature. In addition to the aforementioned technical advantages, decentralized technology has positive repercussions for Hey's community dynamics. We want the product to be owned by its users, and for  users to serve as catalysts for early adoption in their social circles. Allowing users to run their own Blockchain node—and be rewarded for it—makes this aspiration attainable and accelerates the community's growth potential.
+Blockchain's unique advantages of security and transparency are due in part to its distributed nature. In addition to the aforementioned technical advantages, decentralized technology has positive repercussions for Hey's community dynamics. Its important to us that the product be owned by its users and for users to serve as catalysts for early adoption in their social circles. Allowing users to run their own Blockchain node—and be rewarded for it—makes this aspiration attainable and accelerates the community's growth potential. For individuals who may not have been initially inclined to participate in the Hey community as an active user, the opportunity to run a node proves appealing for its prospective reward, and so increases momentum of community growth. 
 
-In this regard, we believe that Blockchain constitutes a powerful asset for Hey. Like past and present peer-to-peer communities \(Napster, BitTorrent and the like\), Hey will benefit from a favorable combination of technical and social incentives.
+Based on the advantages noted above, we believe that Blockchain constitutes a powerful asset for Hey. Like past and present peer-to-peer communities \(Napster and BitTorrent, among others\), Hey will benefit from a favorable combination of technical and social incentives.
 
 ### A Note on Tech Maturity
 
-We understand that Blockchain remains an emerging technology. Our team of seasoned techies anticipates big changes down the road, along with the occasional vulnerability and rough patch—all part of a technology's journey to maturity.
+While its virtues are abundant, we understand that Blockchain remains an emerging technology. Our team of seasoned techies anticipates big changes down the road, along with the occasional vulnerability and rough patch—all of which are part of a technology's journey to maturity.
 
-To minimize potential disruptions to the Hey product, we'll maintain our pragmatic approach in all technological decisions. To ensure that we don't land in any tech dead-end, we'll conduct continual test-and-learn experiments and, as we feel the technology is reaching maturity, will gradually transfer increasing amounts of the Hey stack to the Blockchain.
+To ensure that we don't land in any tech dead-ends, we'll conduct continual test-and-learn experiments and, as we feel the technology is reaching maturity, will gradually transfer increasing amounts of the Hey stack to the Blockchain.
 
 ## On the Use of Ethereum and Loom Network
 
-We have chosen to build Hey on 2 Blockchains using the Ethereum protocol. Specifically, social interactions are recorded on a Dapp Chain powered by the [Loom Network](https://loomx.io/developers/en/) \(a sidechain\). These social interactions generate value for the users in the form of sidechain HEY tokens. At anytime, users can transfer their tokens from the sidechain to the Ethereum mainchain, where these tokens have a tradeable value. Note that the ICO will be conducted on the Ethereum mainchain.
+We have chosen to build Hey on two Blockchains using the Ethereum protocol. More explicity: social interactions are recorded on a Dapp Chain powered by the [Loom Network](https://loomx.io/developers/en/) \(a sidechain\). These social interactions generate value for the users in the form of sidechain HEY tokens. At anytime, users can transfer their tokens from the sidechain to the Ethereum mainchain, where these tokens have a tradeable value. Note that the ICO will be conducted on the Ethereum mainchain. 
 
 ### Ethereum
 
-In our selection process of the Blockchain protocol supporting Hey's product, Ethereum rapidly came across as the best option currently available on the market. At the moment, it is the only protocol combining the following features:
+When selecting the Blockchain protocol supporting Hey's product, Ethereum quickly emerged as the best option on the market. At the moment, it is the only protocol combining the following features:
 
 * Public network
 * Smart contracts and DApps support
@@ -51,126 +51,126 @@ In our selection process of the Blockchain protocol supporting Hey's product, Et
 * Availability of talent \(i.e., developers and auditors\)
 * Development status and stability of protocol \(i.e., all features available on the live network\)
 
-After extensive analysis of several other protocols, Ethereum did clearly stand out as the best fit for Hey. With [1,750+ and counting](https://www.stateofthedapps.com/) DApps officially running on it, we reckon that Ethereum has imposed itself as the go-to protocol for products aiming at wide community adoption. 
+After extensive analysis of several alternative protocols, we concluded that Ethereum stood out as the best fit for Hey. With [1,750+](https://www.stateofthedapps.com/) DApps \(and counting\) officially running on the protocol, we reckon that Ethereum has proven itself as the go-to for products striving toward wide community adoption. 
 
 ### Sidechains
 
-For all its qualities, Ethereum still suffers from well-know limitations that would severely hamper Hey's development if not tackled. The main issue here is scalability: all apps running on the main Ethereum Blockchain consume the same resources and hence become competitors when it comes to getting their transactions confirmed. In our opinion of developers, this hardly makes senses from a technological standpoint. Why would the breeding of kitties happen on the same environment and with the same military-grade security as a multimillions monetary transfer between two exchanges?
+For all its qualities, Ethereum still suffers from well-know limitations. If not confronted, these could prove significant obstacles to Hey's development. The principal issue is scalability and corresponding network congestion challenges: all applications running on the main Ethereum Blockchain consume the same resources, and so become competitors in regard to confirming transactions. From a technological standpoint, we don't believe this makes sense—a variation in activity renders it unsuitable. Consider the ever-famous Ethereum kitty example: "Why would the breeding of kitties happen on the same environment and with the same military-grade security as a multimillions monetary transfer between two exchanges?"
 
-Several solutions are being worked on to tackle this well-known problem of network congestion \([Casper](https://arxiv.org/abs/1710.09437), [Plasma](https://plasma.io/), etc...\). Amongst them, we find that of sidechains \(like Plasma\) particularly elegant for the use case of Hey.
+Several solutions are under development to tackle the issue, including [Casper](https://arxiv.org/abs/1710.09437) and [Plasma](https://plasma.io/). After some R&D, we've found that sidechains like Plasma prove particularly useful for Hey.
 
-Sidechains allow DApps to run their business logic on bespoke networks, connecting back to the mainchain only when users wish to transfer / redeem the value harvested on the sidechain. The reverse operation is also supported, where users can lock value on the mainchain during the time it is used on a sidechain \(like it would be the case with crypto-collectibles transported from one sidechain to another, passing through the mainchain in between\).
+Sidechains allow DApps to run their business logic on bespoke networks, connecting back to the mainchain only when users wish to transfer or redeem the value harvested on the sidechain. The reverse operation is also supported, wherein users can lock value on the mainchain during the period in which it is being employed on a sidechain. This would be the case, for example, with crypto-collectibles transported from one sidechain to another—in this instance, the mainchain would function as a middle man between sidechains, and value would remain locked until being returned to the mainchain.
 
-In the case of Hey, transfers will initially be one-way only: from the sidechain to the mainchain. That is, users will earn tokens for their activity on the sidechain, before redeeming them for publicly tradeable tokens on the mainchain. In a later phase, we will allow the transfer of value from the mainchain to the sidechain as well \(e.g., for advertisement fees\).
+In Hey's case, transfers will initially be feasible solely one-way: from the sidechain to the mainchain. That is, users will earn tokens for their activity on the sidechain before redeeming them for publicly tradeable tokens on the mainchain. In a much later phase—likely a few years from the ICO—we will also permit the transfer of value from the mainchain to the sidechain \(e.g. for in-app purchases\).
 
 ### Loom Network
 
-In the Ethereum universe, a band of folks that has done a tremendous job to skill up the developers community: that is the [Loom](https://loomx.io/) team, the creators of the [CryptoZombies Solidity Tutorials](https://cryptozombies.io/).
+Within the Ethereum universe, the [Loom](https://loomx.io/) team \(and creators of the [CryptoZombies Solidity Tutorials](https://cryptozombies.io/)\) have done a tremendous job increasing expertise in the developers' community.
 
-As they took feedback from more and more developers, the Loom team has progressively developed a very good understanding of community requests to make Ethereum even more developers-friendly and capable of running less serious DApps, like games and social networks. This is how the [Loom Network ](https://loomx.io/developers/)was born:
+The team constantly acquires feedback from developers, so has established a solid \(and well-founded\) understanding of community requests. More particularly, they have recognized the appeal to make Ethereum more developer-friendly, as well as capable of running informal DApps, such as games and social networks. 
 
-_Loom Network is a Layer 2 scaling solution for Ethereum that is live in production. It is a network of DPoS sidechains, which allows for highly-scalable games and user-facing DApps while still being backed by the security of Ethereum._
+The [Loom Network ](https://loomx.io/developers/)is "_a Layer 2 scaling solution for Ethereum that is live in production. It is a network of DPoS sidechains, which allows for highly-scalable games and user-facing DApps while still being backed by the security of Ethereum._"
 
-This parallel fork of Ethereum is specifically targeted at games and social networks \(checkout [DelegateCall](https://delegatecall.com/newest) for example\). This, combined with the incredible energy and tons of regular new features emanating from the Loom team, has convinced the Hey team that the Loom Network is the best technology fit for the Hey's sidechain.
+This Etherum hard fork is specifically targeted at games and social networks \(e.g. [DelegateCall](https://delegatecall.com/newest)\). This, combined with the Loom team's regular release of new features, has convinced our team that the Loom Network is the best technological fit for Hey's sidechain.
 
 ## On the Hey App Architecture
 
-Hey is a simple product powered by an ecosystem of multiple applications and services, some of them centralised and some of them running on the Blockchain. This section outlines the main components of the architecture.
+Hey is a simple product powered by an ecosystem of applications and services, some of which are centralized while others run on the Blockchain. This section outlines the main components of the ecosystem's architecture.
 
 ### Development Philosophy
 
-The Hey community will constantly be evolving, and so will the Hey product to suit their needs and delight them with great features. Our dev team loves nothing more than testing and learning, experimenting and failing fast - these are known to be the winning ingredients in the crafting of successful software products.
+As the Hey community continues to evolve, so will the Hey product. This evolution is intended to suit the changing needs of the community and to engage and excite them with new, unique features. Part of the deal is also to have some fun. Our development team loves nothing more than testing and learning, experimenting, and failing fast—these are known to be the winning ingredients in crafting successful software products. Not to worry: failures will be finished in the testing phase, well before any new features are added to the Hey platform. 
 
-Our aim is to strive to combine development agility with the specifics of Blockchain technology. While we reckon this will prove challenging at times \(like all software engineering endeavours\), we take as guidance that we should never lose the trust of the Hey community. Maintaining this trust will help us make the best  decisions along the road \(e.g., when contemplating a fork or updating the tokens distribution algorithm\).
+Throughout the development process, our aim is to combine agility with what can prove to be laborious specifics of Blockchain technology. While we reckon this will prove challenging at times, we feel confident that we can strike a balance between speed, flexibility, and attention to detail. Our guiding principle will be trust and follow-through: that is, an understanding that the Hey community has put their confidence in our team and that we are committed to satisfying their needs. We believe that maintaining a mutual trust—including ours in the community—will help us to make sound decisions throughout the growth process \(e.g. when contemplating a fork\).
 
-To the best extent possible, we will open-source the non decentralised parts of the Hey product - balancing against the security imperatives faced in the initial phases of product development. 
+With trust at the forefront of our practice, we plan to open-source all centralized parts of the Hey product. At the same time, it is necessary to strike a balance between community transparency and the security of the product. We will do our best to find the compromise that maximizes openness and honesty with the Hey community as well as bypasses security challenges faced in the initial product development stage.
 
-### Beta Release and Vision
+### Beta Release vs. Vision
 
-In the following sections, we have chosen to distinguish between the Beta release architecture and the ultimate vision we have for the product.
+In the sections that follow, we have chosen to distinguish between the Beta release architecture and our ultimate vision for the Hey product. This distinction is made in order to offer the utmost transparency regarding Hey's maturation process and to highlight the growth to come. 
 
-The aim of the Beta release is to be able to hit the road as soon as possible, to prove community adoption with a set of core features simple enough to remain agile while powerful enough to create product stickiness amongst users.
+The aim of Hey's Beta release is to get the \(public\) ball rolling as soon as possible.The sooner we can demonstrate community adoption, the better. We feel that Hey's Beta version provides a set of core features simple enough to remain agile in terms of development, while powerful enough to yield user retention." 
 
-We present the vision as well as we believe early adopters' support will grow when we outline precisely the ambitious goals and bold value of the Hey ecosystem. 
+We present the long-term vision in the hopes that our intended growth and ambitious development path will excite and engage early adopters.
 
-The timing of the successive releases is detailed in the Roadmap chapter.
+The timing of the successive releases is detailed in the Roadmap section of this whitepaper.
 
 ### Beta Release Architecture Overview
 
 ![Beta release architecture](.gitbook/assets/download-1.png)
 
-The Beta release architecture is a mix of centralised and Blockchain-based components. These can be broadly grouped in 3 categories:
+The Beta release architecture is a mix of centralized and \(decentralized\) Blockchain-based components, which can be broadly grouped into three categories:
 
-* **Front-ends**: these are the interfaces to the different systems.
-  * The key interface is the **browser extension**, in which users spend most of their product usage time. This extension will be available on all main browsers, and maintained and released by the Hey team directly. It interacts with the back-end in a loosely coupled way, meaning other community front-ends could be built on top of the system as well.
-  * The **OAuth provider** interface is simply an authentication page that will enable users to link any social accounts with their Hey user profile for simpler account management.
-  * The **Sidechain explorer** allows users to monitor the sidechain in real-time and see how their social interactions get engraved in transactions that will ultimately generate value \(HEY tokens\) for their beneficiaries. It also allows anyone to check any users' sidechain tokens balance as a proof of their involvement in the community.
-  * The **Mainchain wallet** can be any Ethereum compatible wallet \(e.g. MetaMask\). It allows users to control their mainchain HEY tokens similarly to any other ERC20 tokens.
-* **Smart contracts**: these are the Blockchain-based components of the architecture.
-  * **Sidechain smart contracts** are responsible for recording and storing the value generated by users with their activity in the app. In the Beta release, a light implementation allows users to earn Karma every time peers recognise their contributions. Sidechain ERC20 tokens are then distributed periodically based on the Karma earned in the given period.
-  * **Mainchain smart contracts** manage the publicly tradeable HEY ERC20 tokens \(that will a.o. be generated during the ICO\). Besides the standard ERC20 smart contracts \(incl. a pool / vault of tokens for the community\), we have developed a Transfer Gateway contract similar to that used by the [DelegateCall](https://delegatecall.com) application. This contract allows users to redeem HEY tokens on the mainchain based on approval gotten from the sidechain.
-* **Centralised back-end services**: these are the components we have chosen not to port to the Blockchain yet, either because we want to get more users feedback first, or because it would make little sense from a tech perspective.
-  * The **Node.js API backend** is the core app server that handles most of Hey's business logic. It stores and retrieves the content of messages, serves assets, sets users product preferences, etc. It relies on a NoSQL DB for data storage. A critical modification is brought versus a classic centralised client-server app however. Indeed, any value-generating event \(i.e., social interactions such as likes and follows\) is translated by the server into a sidechain transaction that is signed by the emitting user's private key. This real-time reflection of actions on the Blockchain can be monitored by users at any time using the Sidechain explorer - helping to maintain trust of the community.
-  * The **Users management** is the extra-secure service \(not exposed on the Internet and only accessible by other back-end components\) that manages sidechain accounts of Hey users. For each user account, it is responsible for generating and securely storing the user's sidechain private and public keys, along with their sidechain address. Only users can access their own data - once they are authenticated, with authentication being verified by the Node.js API backend as the gatekeeper. Having this service in the back-end allows users to give delegation to the back-end to sign their sidechain transactions, resulting in more ergonomy. Our vision is that transactions should ultimately be signable from the front-end directly, reading private key from the users' local storage.
-  * The **Distributor** is the service that periodically assesses how much karma has been earned by each user on the period, to distribute sidechain HEY tokens accordingly. The rules it follows are described in the Hey token section of this paper. To be given enough leeway for experimentation and community feedback, we have decided not to port this service on the Blockchain yet. However, since the input \(Karma\) and output \(sidechain HEY tokens\) of the distribution algorithm are stored on-chain, the community can verify at anytime if the claimed implementation is respected. The full source code of the distributor will be made open-source to allow just this.
-  * The **Transfer request approver** is the middleware that allows redeeming of sidechain HEY tokens for mainchain HEY tokens. In its most basic version, it is a service that pre-signs a mainchain transaction \(e.g., transfer 10 mainchain HEY tokens to a user\) if certain sidechain criteria are met \(e.g., the user owns 10 sidechain HEY tokens\). The Transfer Gateway smart contract only triggers transfers when they are pre-signed by the approver - hence the approver is a particularly sensitive component of the architecture, effectively being the funnel of value between the sidechain and the mainchain. For this reason, multiple layers of keys redundancy will be used to maintain control over this component and be able to back it up. 
+* **Front-ends**: these are the user interfaces of each system noted in the figure above. 
+  * The key user interface is the **browser extension**. This is where users will spend the majority of their time. The extension will be available on all main browsers \(including Chrome, Safari, and Firefox\), and will be released and maintained by the Hey team. The extension interacts loosely with the back-end, implying that any community member can build a front-end on top of Hey's backend. 
+  * The **OAuth provider** interface is an authentication page that will enable users to link social accounts with their Hey profile for simpler, streamlined account management.
+  * The **Sidechain explorer** will allow users to monitor the sidechain in real time and see how their social interactions are engraved into blockchain transactions that will ultimately generate value \(HEY tokens\) for other users \(e.g. those users whose content they have liked\). ****The sidechain will also allow any individual to check another user's ****sidechain tokens balance in order to prove their involvement in the Hey community.
+  * The **Mainchain Wallet** can be any Ethereum compatible wallet \(e.g. MetaMask or MEW\). The Mainchain wallet allows users to control their mainchain HEY tokens similarly to any other ERC20 tokens.
+* **Smart contracts**: the Blockchain-based components of the Beta architecture.
+  * **Sidechain smart contracts** will record and store user-generated value—based on their activity on the platform—in the application. ****The Beta release will focus on allowing users to earn Karma every time peers recognize their contributions to the community—be it via likes, comments, or otherwise. Sidechain ERC20 tokens will then be distributed periodically based on Karma points earned during the given period \(token distribution is outlined in **NOTED SECTION\)**.
+  * **Mainchain smart contracts** will manage the publicly tradeable HEY ERC20 tokens, which will be generated during the ICO. In addition to the standard ERC20 smart contracts \(including a pool of tokens set aside for the community\), the Hey team has developed a Transfer Gateway contract similar to that used by the [DelegateCall](https://delegatecall.com) application. This contract will allow users to redeem HEY tokens on the mainchain as long as they have received approval from the sidechain.
+* **Centralised back-end services**: these are the components of the Beta architecture that we have chosen not to port to the Blockchain just yet. Some components will be ported \(**???\)** once we've obtained additional user feedback, while others won't be ported at all—that is, when it doesn't make much sense from a tech perspective.
+  * The **Node.js API backend** is Hey's core application server and handles most of our business logic. It stores and retrieves the content of messages, serves assets, and sets users product preferences, among other activities. The Node.js backend relies on a NoSQL DB for data storage. Each time a value-generating event is recorded on the server \(i.e. social interactions such as likes and follows\), a corresponding blockchain transaction will be emitted \(and signed using the user's private key\). This real-time display of actions on the Blockchain can be monitored by users at all times using the Sidechain explorer, offering a level of transparency that will prove helpful in maintaining the community's trust.
+  * The **Users management** is the particularly secure service that will manage Hey users' sidechain accounts—it isn't exposed on the Internet, but rather is only made accessible only via other back-end components. For each user account, the Users management is responsible for generating and securely storing the user's sidechain private and public keys, along with his/her sidechain address. Once a user is authenticated and verified by the Node.js API backend, that user's data is accessible only by  him/herself. Providing this service in the back-end allows users to delegate certain tasks to said back-end \(e.g. signing sidechain transactions\), resulting in increased efficiency and ergonomy. Our team's long-term vision is to allow users to sign transactions directly via the front-end, reading their private key from their local machine storage.
+  * The **Distributor** is the service that periodically assesses how many Karma points have been earned by each user during a given the period in order to distribute sidechain HEY tokens accordingly. The rules the Distributor follows are described in the HEY token section of this paper. We have opted not to port this service to the Blockchain just yet, so that our developers can experiment, receive community feedback, and make changes accordingly. Despite its current centralized nature, there should be no concern about transparency—the input \(Karma\) and output \(sidechain HEY tokens\) of the distribution algorithm are stored on-chain, so the community can always verify if the claimed implementation is respected. In order to enable this audit at any time, the full source code of the distributor will be made open-source. 
+  * The **Transfer Request Approver** is the middleware that will allow users ****to redeem sidechain HEY tokens in exchange for mainchain HEY tokens. In its most basic version, the Transfer Request Approver is a service that pre-signs a mainchain transaction \(e.g., the transfer of 10 mainchain HEY tokens to a user\) as long as certain sidechain criteria are met \(e.g., the user owns 10 sidechain HEY tokens\). The Transfer Gateway smart contract only triggers transfers when they are pre-signed by the approver. Note that the approver is a particularly sensitive component of the architecture, then, effectively serving as the value funnel between the sidechain and the mainchain. With this in mind, our developers will employ multiple layers of keys redundancy in order to maintain control over the Transfer Request Approver. 
+
+## Architectural Deep Dives 
 
 ### Sidechain Content Storage
 
-_How Hey stores posts, comments, uploads, and other blobs from the community_
+_How Hey stores posts, comments, uploads, and other blobs from the community_ 
 
 #### Vision
 
-We reckon that content decentralisation is a powerful method to avoid any means of censure or content seizing by powerful actors. As of today however, we think that Blockchain technology is not ready to support storage of all the content generated in the Hey app \(posts, uploads, comments...\), as it suffers from a few pitfalls \(unnecessary content duplication, expensiveness of storage, responsibility in case of ethically reprehensible content\). We are looking into potential evolutions of the [IPFS protocol](https://ipfs.io/) as a way to efficiently store content in the future - remembering that Hey users might be collectively generating terabytes of data per hour at peak use depending on the community size.
+We believe that content decentralization is a reliable way to avoid censure or risk content being seized and/or misused by powerful actors. Despite this, we are not convinced that the current state of Blockchain technology is ready to store all the content generated in the Hey app \(posts, uploads, comments...\). This opinion is based on a few pitfalls evident in the technology: unnecessary content duplication, high cost of storage, and liability in the case of ethically reprehensible content, among others. These issues become particularly significant when considering that, at peak use and depending on the size of the community, Hey users have the potential to generate terabytes of data every hour. With this in mind, our team is looking into—but has not committed to—development of the [IPFS protocol](https://ipfs.io/) as a tool to efficiently store content in the future.
 
 #### Beta release
 
-In the initial release of the app, we will be using a classic MongoDB cluster to store records. This will among other advantages allow us to fine-tune requests for performance \(indexing, sorting, caching\) while we learn usage patterns of the community. To ensure no content gets lost, we will use industry-standard redundancy/failover and back-up schemes.
+As of the initial app release, we will be using a classic MongoDB cluster to store records. Among other advantages, this will allow us to fine-tune requests for performance—indexing, sorting, and caching—while we study the community's usage patterns. To ensure that no content gets lost, we will use industry-standard redundancy/failover and back-up schemes.
 
 ### Sidechain Value Creation and Storage
 
-_How Hey stores karma and tokens owned by the users_
+_How Hey stores Karma and tokens owned by the users_
 
 #### Vision
 
-It is paramount for community trust to record value creation and ownership \(i.e., karmas and tokens\) directly on-chain. This enables the core features of security and transparency that make Hey a unique new breed of social network. Hence we aim to port all aspects related to value management on the Blockchain as soon as possible, securing necessary learnings in the meanwhile to avoid costly mistakes.
+Recording value creation and ownership \(e.g. Karma points and HEY tokens\) directly on-chain is paramount to ensure trust within the community and enables Hey's unique core features: security and transparency. For this reason, we aim to port all aspects of value management to the Blockchain as soon as possible, in order to increase security and transparency. 
 
 #### Beta release
 
-We will store karma and tokens on-chains as of the initial release of the app, so the transactions can be seen by all using the Sidechain explorer. Karmas will be represented by a very basic token that can be minted and has a balance per user as its only attribute \(i.e., karma cannot be transferred from one user to another, nor can it be burned\). Each user activity in the app will trigger a transaction on the sidechain, minting karma for the beneficiary user as per a ratio defined in the karma smart contract \(e.g., 1 like = 1 karma, 1 follow = 5 karma - these are illustrative values only\). Sidechain HEY tokens will be represented by full-blown ERC20 tokens to allow for the same behaviour as that possible on the mainchain. 
+We will store Karma points and tokens on chains ****as of the initial app release, so that transactions can be immediately visible to all via the Sidechain explorer. Karma points will be represented by a very basic token, which can be minted and whose balance per user is its only attribute. This means that Karma points cannot be transferred from one user to another, nor can they be burned. Each user activity in the app will trigger a transaction on the sidechain, minting Karma points for the active user; the number of Karma points collected will be based on a ratio defined in the Karma smart contract. For example, 1 like = 1 Karma, 1 follow = 5 Karma, et cetera—these are purely illustrative values. Sidechain HEY tokens will be represented by ERC20 tokens in order to ensure that all transactions on the mainchain can be reflected on the sidechain. 
 
 ### Sidechain Value Distribution
 
-_How hey distributes tokens to users based on their community contribution_
+_How hey distributes tokens to users based on their community contribution_ 
 
 #### Vision
 
-It is our vision that the transformation of karma to sidechain HEY tokens redeemable on the mainchain should be make completely transparent and tamper-proof. Smart contracts lend themselves perfectly to that purpose, and this is what we are aiming at for the Hey product. Given the changing nature of the community over time, we will need to use partially upgradeable contracts \(to e.g. update computation parameters and formulae\) - potentially using community-based votes to greenlight upgrades.
+It is our vision that the exchange of Karma for sidechain HEY tokens—which are redeemable on the mainchain—should be fully transparent and unalterable**.** Smart contracts lend themselves perfectly to that purpose. Given the changing nature of the Hey community over time, we will need to employ partially-upgradeable contracts. This is so that the incentivizing structures correspond to community growth and meet community needs. For example, when updating computation parameters and formulae. In order to approve upgrades, we are considering a community vote approach.
 
-#### Beta release
-
-To remain consistent with our test-and-learn approach and be able to act on community feedback, we will initially not use a smart contract to perform value distribution. We will however fully disclose the pseudo-code of the distributor \(i.e., the algorithm\) and the associated source code. Given that both inputs \(karma\) and outputs \(sidechain HEY tokens\) are engraved on the sidechain for everyone to see, it is trivial to verify that the claimed distribution algorithm has been used. 
+The Hey team is committed to applying a test-and-learn approach to development, as well as to continually receiving community feedback. For this reason, we have opted not use a smart contract to perform value distribution within Hey's Beta version. We will, however, fully disclose the distributor's pseudo-code \(i.e. the algorithm\) and the associated source code. Because both inputs \(Karma points\) and outputs \(sidechain HEY tokens\) are engraved on the sidechain for all to see, it is possible for any individual to verify that the claimed algorithm has been used. 
 
 ### Mainchain Redemption
 
-_How Hey lets users claim mainchain HEY tokens based on their sidechain belongings_
+_How Hey lets users claim mainchain HEY tokens based on their sidechain assets_
 
 #### Vision
 
-We want to make the redemption of sidechain HEY tokens for mainchain HEY tokens as simple and decentralised as possible. Our aim is to devise a fully trustless solution to allow users to redeem tokens anytime without ever requiring intervention from a central authority. Current technologies do not fully allow this yet although there are encouraging developments on the horizon \(Plasma, Plasma Cash, Atomic Swaps...\). The issue with current solutions is that they are only trustless as of the moment both parties have agreed to enter in a transaction - but they require trust that both parties will be willing to do so. We are thus closely watching future developments in this field.
+We want to make the redemption of sidechain HEY tokens for mainchain HEY tokens as simple and decentralized as possible. Our aim is to devise a fully trustless ****solution that allows users to redeem tokens at any time, without ever requiring intervention from a central authority. Current technologies don't yet enable this—as human-to-human trust is required before entering into a transaction—but promising projects are in the works. We are closely monitoring options like Plasma, Plasma Cash, Atomic Swaps, and are optimistic about future developments.
 
 #### Beta release
 
-Our initial release uses the [Transfer Gateway pattern](https://loomx.io/developers/docs/en/arch.html#transfer-gateway) \(also implemented by Loom for the DelegateCall application\). The Transfer Gateway is a smart contract deployed on the Ethereum mainchain that is granted control over the pool of HEY mainchain tokens. When a user wishes to redeem tokens, the following sequence of actions takes place:
+Our initial release uses the [Transfer Gateway pattern](https://loomx.io/developers/docs/en/arch.html#transfer-gateway) \(also implemented by Loom for the DelegateCall application\). The Transfer Gateway is a smart contract deployed on the Ethereum mainchain that is granted control over the pool of HEY mainchain tokens. When a user wishes to redeem tokens, the following is an example of the sequence of actions that takes place:
 
-* From the DApp, user Alice calls a back-end service managed by Hey \(the Approver\) to request a redemption of X sidechain tokens for mainchain tokens.
-* The Approver checks that Alice actually owns X sidechain tokens, then signs the message "User Alice can receive X tokens from the mainchain on her mainchain address". This message is signed using the Approver private key that only it knows.
-* The Approver sends the signed message to Alice, and burns X sidechain tokens from Alice's account to prevent double-redemption \(or lets her do so herself, depending on the way she manages her wallet\).
-* Alice initiates a mainchain transaction to the Transfer Gateway, passing the signed message from the Approver in the transaction data.
-* The Transfer Gateway receives the signed message, and checks that it was signed by the Approver \(using the `ecrecover` function, which allows to determine the address of the signer based on a signed message\).
-* If verification is successful, then the Transfer Gateway transfers X mainchain tokens to Alice's mainchain address.
+* From the DApp, user Alice calls a back-end service managed by Hey \(the Approver\) to request a redemption of X number of sidechain tokens for mainchain tokens.
+* The Approver checks that Alice actually owns X number of sidechain tokens, then signs the message "User Alice can receive X number of tokens from the mainchain on her mainchain address." This message is signed using the Approver private key, which only the Approver itself knows.
+* The Approver sends the signed message to Alice and burns X number of sidechain tokens from Alice's account to prevent double-redemption.
+* Alice initiates a mainchain transaction to the Transfer Gateway, passing the signed message from the Approver into the transaction data.
+* The Transfer Gateway receives the signed message and checks that it was signed by the Approver using the `ecrecover` function, which allows it to determine the address of the signer based on the signed message.
+* If verification is successful, then the Transfer Gateway transfers X number of mainchain tokens to Alice's mainchain address.
 
-In order to reduce dependency on the Approver's authority, we wish to rapidly investigate the opportunity of relying on a network of approvers, which could overlap with that of master nodes of the sidechain.
+In order to reduce dependency on the Approver's authority, we intend to quickly investigate opportunities to rely on a network of approvers, which could overlap with that of master nodes of the sidechain.
 
 ### Sidechain Authentication & Keys Management
 
@@ -178,29 +178,30 @@ _How Hey manages secured login and interactions with the sidechain_
 
 #### Vision
 
-Note first that all mainchain assets \(i.e., mainchain HEY tokens\) are fully controlled by their owners' wallets like any other ERC20 tokens. Our vision is that the same should ultimately hold true for all sidechain assets as well \(karma and sidechain HEY tokens\). Control over assets is granted by control over the associated private keys. We are thus aiming at developing further the Hey browser extension so that it becomes capable of locally storing and managing private keys. We want to develop a set of features that are a subset of MetaMask's - with an enhancement letting users pre-authorize any transactions on the Hey sidechain while they browse it, so they don't have to sign a transaction everytime they like or follow someone.
+Before we outline our vision, first note that all mainchain assets \(i.e. mainchain HEY tokens\) are fully controlled by their owners' wallets—like any other ERC20 tokens. Our belief is that the same should hold equally true for all sidechain assets, including Karma points and sidechain HEY tokens. Control over assets is granted by knowledge of the associated private keys. With that in mind, we plan to further develop the Hey browser extension so that it proves capable of locally storing and managing private keys. Our developers will build a set of features, which are a subset of MetaMask's, incorporating an enhancement that allows users to pre-authorize transactions on the Hey sidechain while they browse it. This will decrease frequency of signatures, as users won't be required to sign a transaction each time they like a comment or or follow another user.
 
 #### Beta release
 
-So as to rapidly deploy a working version of the Hey product, we rely on a secured sidechain keys management service that links each user account on the app with a private/public key pair. This keys management system is tightly integrated with our authentication services provider. The flow when a new user signs up is the following:
+In order to deploy a functioning version of the Hey product sooner rather than later, our Beta release relies on a secured sidechain keys management service that links each user account on the application with a private/public key pair and is closely integrated with our authentication services provider. The following is an example of the process that takes place when a new user registers:
 
-* When a user signs up \(either via a social OAuth provider or via username/password\), the authentication service registers a new user account and calls the keys management system to inform it of the signup.
+* When user Alice signs up for Hey \(either via a social OAuth provider or via username/password\), the authentication service registers a new user account and calls the keys management system to inform it of the signup.
 * Triggered by this request, the keys management system creates and store a new private/public key pair and derives the associated sidechain public address.
-* The authentication service receives the address from the keys management service and associates it with the user account.
+* The authentication service receives the address from the keys management service and associates it with Alice's account.
 
-When the user then wants to use the Hey product and interact with the community, the flow is the following:
+The following is an example of the processes that take place after registration has been completed and Alice wants to interact with Hey:
 
-* The user signs in via the authentication service.
-* The authentication service validates the signing in and communicates back to the user's browser the user sidechain address and a time-expiring back-end API access token, in the form of an industry-standard [JWT token](https://jwt.io/introduction/).
-* Once she is securely signed it, the user has access to the JWT token and its payload \(including her sidechain address\).
-* When the user makes a transaction \(say, likes a post from another user\), she passes her JWT token along with the back-end API call.
-* The back-end server makes sure the JWT is correctly signed by querying the authentication service.
-* The back-end server decodes the JWT to extract the sidechain address of the user.
-* The back-end server queries the keys management service to get the private key linked to that user address. Given the sensitivity of this call, it is performed in a private environment not accessible from the outside world.
-* The back-end server signs the transaction on behalf of the user and broadcasts it to the sidechain.
-* The user sees that her address has rightly emitted a transaction on the sidechain as a result of her liking another user's post - validating the trust she has put in the keys management service
+* User Alice signs in via the authentication service. The authentication service validates the sign in and communicates Alice's sidechain address, as well as a time-expiring back-end API access token \(in the form of an industry-standard [JWT token](https://jwt.io/introduction/)\), to Alice's browser. 
+* Once Alice is securely signed in, she has access to the JWT token's payload \(including her sidechain address\).
+* When Alice makes a transaction \(e.g. likes a post from another user\), and thus calls the back-end API, she also passes her JWT token to the back-end.
+* The back-end server makes sure that the JWT is correctly signed by querying the authentication service.
+* The back-end server decodes the JWT to extract Alice's sidechain address.
+* The back-end server queries the keys management service to get the private key linked to Alice's address. Given the call's sensitivity, it is performed in a closed environment that is safely insulated for any and all unauthorized system.
+* The back-end server signs the transaction on behalf of Alice and broadcasts it to the sidechain.
+* Alice sees that her address has executed a transaction on the sidechain as a result of her liking another user's post. This validates the trust Alice has put in the keys management service.
 
- We believe that this setup offers the best compromise between security and ergonomy, allowing for further decentralisation when private keys can be migrated to the users' browsers directly if they wish. It is worth insisting on the fact that the publicly tradeable value resides on the mainchain where user have full control of their assets. The amounts at stake on the sidechain are an order of magnitude smaller, and can be repatriated to the mainchain at any time using redemption. Note that a similar approach is used by [DelegateCall](https://delegatecall.com) as well, where it has a met broad support from the community of users.
+We believe that this process strikes the best balance between security and UX/UI, while allowing for further decentralization when matured technology allows.
+
+Note that publicly tradable HEY tokens reside on the mainchain, where users have full control of their assets. The value at stake on the sidechain is an order of magnitude smaller \(that is, HEY tokens and Karma points\) and can be redeemed on the mainchain at any time. Note that a similar approach is used by [DelegateCall](https://delegatecall.com), where it has been met with broad support from the user community.
 
 ### Sidechain Infrastructure
 
@@ -208,25 +209,29 @@ _How Hey manages sidechain nodes_
 
 #### Vision
 
-Our ambition for the Hey sidechain is that it runs on a fully decentralized network of numerous nodes. This will be enabled naturally by the community as it grows, and we plan on rewarding node owners for their support to the ecosystem. We envision a structure like that of Lisk for example, with ~100 nodes acting as delegates for the entire network.
+Our ambition for the Hey sidechain is that it runs on a fully decentralized network of numerous nodes. This will be enabled gradually by community growth; we plan on rewarding node owners for their ecosystem support via a structure like that of Lisk, with ~100 nodes acting as delegates for the entire network.
 
 #### Beta release
 
-The initial release of the product will either run on a sidechain-as-a-service provided by the Loom Network \(ZombieChain / GameChain\) or on a set of nodes managed by early community contributors \(at least 15 nodes\). The selection will depend on the progress made by the Loom team in deploying their sidechain-as-a-service. Our wish is to be able to focus initially on building user-delighting features by relying on a managed service for the base layers supporting the product. 
+Hey's Beta release will either run on sidechain-as-a-service—provided by the Loom Network \(ZombieChain/GameChain\)—or on a set of at least 15 nodes managed by early community contributors. The selection will depend on progress made by the Loom team in deploying their sidechain-as-a-service. Our intention in using sidechain-as-aservice for the foundational layers of product support is to free up resources so that we can instead spend our time and energy on building user-friendly features. 
 
-In any case, we will honour community trust by making sure that no infrastructure migration results in loss of karma or sidechain tokens by Hey users. In that sense, there is no such thing as a Testnet for the sidechain: as of the initial deployment of the Hey product, users contributions and rewards will be kept for the next users to see and interact with. This is indeed the community capital of Hey, and its most critical asset.
+No matter the selection, we will ensure that infrastructure migration does not result in loss of users' Karma points or sidechain tokens.
+
+In that sense, there is no such thing as a Testnet for the Hey sidechain: as of the initial deployment of the Hey product, users contributions and rewards \(i.e. posts, likes, Karma points\) will be recorded and kept for the next users to see and interact with. **C**ontent generated on the network is indeed the community capital of Hey, and its most critical asset.
 
 ### Ads Management
 
-_How Hey manages ads purchasing and placement on the network_
+_How Hey manages ad purchases and placement on the network_
 
 #### Vision
 
-Our ambition is to ensure full transparency and auditability around revenues generated by Ads on the Hey product and their subsequent distribution to the community. Smart contracts will be key to ensuring this. Hey's advertising services customers will primarily be corporates. For most of these organisations, performing crypto payments is still not commonplace. Hence we reckon there will be a need for a fiat gateway allowing companies to pay with fiat and receive tokens to be used for purchasing ads placement. The Hey team wants to make this process completely transparent - therefore we ambition to publicize records of fiat payments in a way similar to a Blockchain explorer. This way the Hey community can map the flows of value in the ecosystem.
+Our aim is to ensure full transparency regarding revenues generated by ads purchased for \(and distributed on\) the Hey platform. Smart contracts will be key to reaching this goal. Corporates will make up the majority of customers purchasing advertising space on Hey. For most of these organisations, performing crypto payments remains rare. In order to allow corporates to pay with fiat currencies and receive HEY tokens \(to be used for ad placements\), the platform will require a fiat gateway. Our team aspires to make this process completely transparent, so plans to publish all records of fiat payments—this will be conducted in a manner similar to that of a Blockchain explorer. That way, the Hey community can map the flows of value throughout the ecosystem and rest easy knowing that all our cards are on the table. Hey endorses a 'no closed hands' policy. 
 
 #### Beta release
 
-In the initial release of the product, no ads management functionalities will be built-in yet. Indeed, we reckon that advertisers will only start developing interest in the Hey community audience when it reaches a critical mass. Until we get there, we aim at developing the best experience possible for our users. All the while we will ensure that we never close doors on the advertising opportunity, as it is what will ultimately drive the token value. 
+During Hey's Beta phase, no advertising management functionalities will be built-in. This is based on the assumption that advertisers will only begin developing serious interest in Hey when our community reaches a critical mass.  
+
+Until we arrive at that point, our team aims at developing the best possible experience for our users—Hey's number one priority—and putting advertising development on the back burner. At the same time, we will never wholly abandon advertising opportunities, as these are what will ultimately drive HEY token value. 
 
 
 

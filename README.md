@@ -1,12 +1,12 @@
 # Abstract.
 
-[➜ **View on GitHub**](https://github.com/nbstr/manifesto)\*\*\*\*
+The web isn't what it once was: it seems we've gone from young, wild, and free to strict, old, and in bed by 20.30. 
 
-The Internet is all about content — it's everywhere and in all forms. In spite of its abundance, accessing accurate information is harder than one might think. This is precisely the issue: searching for reliable information in a content-heavy arena is not as easy as it ought to be. Our objective is to change that.
+The Internet—a place we learned to read, write, and roam free—is growing more censored by the day, full of fools declaring _fake news_ and forcing valuable information to be covered up or taken down. We're here to say _Hey,_ not cool. It's time to soften up, search for our roots, and take back control. We want a new Internet norm—positive impact and supportive interaction.
 
-Hey aims to provide Internet users with three improvements: context, increased frequency of P2P interactions, and improved transparency practices. It is a web application that provides a social network available on the very same page you are browsing. Our tool works as a web browser extension, and can also be installed as a widget on your website. You can find as many use cases to Hey as there are pages on the world wide web: help from fellow developers, comments on products, reviews for courses, warnings, endorsements, are a few of many.
+That's why we created Hey—a platform that provides undisturbed access to your peers and is built on transparency. Hey adds a top layer to the Internet onion, functioning as an extension on users' browsers that nestles into the right side of each web page. The platform is a place to share ideas, advice, and insight. For example, to comment openly on available products and discounts accessible elsewhere, find help from fellow developers, or warn virtual friends of site scams. The major bonus: the Hey extension can't be removed or edited by site owners themselves, so your input will never be altered or erased based on their agendas. The only time anything gets amended is when it's deemed harmful to the health of the platform—hate speech and its foul friends—by other users. Even then, there are tools in place to minimize the risk of misreporting.
 
-Hey's reward and referral system is one of its cardinal strengths and serves as our principal engagement tool. Users receive a certain amount of HEY tokens proportional to their engagement. This system not only encourages users to participate in discussions, but also gives fair compensation to content creators.
+We take democracy to the next level, incorporating a reward and referral system as well as karma points accrual in order to redistribute value to the users who create it. Power to the people? Yeah, that, and then some profit to the people.  
 
-At Hey, we believe there are countless behind-the-scenes communities on every website, all waiting to be uncovered — our goal is to publicize and empower them.
+Hey is here to make change happen and to promote liberty on the World Wide Web. We want you on board. 
 

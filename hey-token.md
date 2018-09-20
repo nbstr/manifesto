@@ -143,32 +143,44 @@ This demonstrates the importance of using total Karma points to calculate token 
 
 #### Demand-invariant number of tokens for payout {#demand-invariant-number-of-tokens-for-payout}
 
-In order to make user rewarding as fair and transparent as possible for the community, we will maintain a token payout that will not vary with user demand. That is, the payout will not be directly influenced by the number of users active on the platform. We fear that conducting payout based on number of users active during a certain period would corrupt user activities, as they may artificially inflate the degree of engagement to increase payout.
+In order to make user rewarding as fair and transparent as possible for the community, we will maintain a token payout that will not vary based on user demand. That is, the payout will not be directly influenced by the number of users active on the platform. We fear that conducting payout based on number of users active during a certain period would corrupt user activities, as they may artificially inflate the degree of engagement to increase payout.
 
-Rather than using a _demand-driven_ model, the payout will initially be _fixed_ to a given amount of tokens \(see corresponding section below\) and will ultimately evolve into a _supply-driven_ model. That is, the number of tokens available for payout will ultimately depend on the number of tokens fed into the pool thanks to advertising sales.
+Rather than using a _demand-driven_ model, the payout will begin with a _fixed_ number of tokens \(see corresponding section below\) and will ultimately evolve into a _supply-driven_ model. In the supply-driven model, the number of tokens available for payout ultimately depends on the number of tokens contributed to the pool from advertising sales.
 
-Given that the HEY token value is proportional to the number of users on the platform, the payout value will grow with the same proportion. As more users compete for the payout reward, the mean payout per user should retain the same absolute value when converted into fiat. This statement, of course, relies on the assumption that the ratio of passive users \(those driving the token value, as they are the users who see the ads\) to active users \(those receiving the payout when they produce original content on the platform\) remains constant over time. We believe this will directionally hold true.
+Given that the HEY token value is proportional to the number of users on the platform, the payout value will grow with the same rate as that of the Hey community. Even as the number of users grows—and thus the competition for the payout reward—the mean payout per user should retain its value when converted into fiat currency. This can be more clearly illustrated when considering the HEY token pool in a payout process. Let's look at a few steps using an example:
+
+1. The token pool size is set at 100, and each token has a certain value X based on the number of users on the Hey platform \(explained earlier in this whitepaper\).
+2. A small Hey community of 10 users is granted a payout based on their Karma points earned. For simplicity's sake, let's assume all users earned the same number of Karma points. In this case, each user is granted 10 tokens. **\*\*FIX NUMBERS HERE**
+3. **When converted into fiat currency, these tokens are worth €1X.**
+4. The Hey community begins to grow up until a new payout period. For now, let's say it's one month later. There are now 100 users in the community. Let's assume again that all users earn the same number of Karma points. In this case, each user is granted 1 token.
+5. When converted into fiat currency, these tokens are still worth €1X.
+
+While the number of HEY tokens earned during the payout process decreased from 10 to 1, the size of the Hey community has increased by 10, and thus the value of the token respectively. When converted to fiat currency, then, the initial 10 tokens and the 1 token offered a month later are worth the same in fiat currency. 
+
+**\*\*ADD FIGURE HERE**
+
+This statement, of course, relies on the assumption that the ratio of passive users \(those driving the token value, as they are the users who see advertisements\) to active users \(those receiving the payout when they produce original content on the platform\) remains constant over time. We believe this will directionally hold true.
 
 Regardless of the payout amount, we expect user engagement to grow organically. This is based on social mechanisms like peer recognition \(materialized in part by Karma points\).
 
 #### Dynamic Karma earnings tables
 
-At the root of the distribution system is the mechanism that grants Karma points to users based on recognition from the community for their content and social interactions \(e.g. when they receive likes, follows, etc.\). Remember that the number of Karma points distributed per action ultimately has no influence over the subsequent tokens distribution, because this distribution depends on the relative number of Karma points earned by the users claiming the payout, which can change daily. 
+The root of the distribution system is the mechanism that grants Karma points to users based on recognition from the community for their content and social interactions \(e.g. when they receive likes, follows, etc.\). The number of Karma points distributed per action ultimately has no influence over subsequent token distribution, as this distribution depends on the relative number of Karma points earned by the users claiming the payout, which can change daily. 
 
 Hey's scale of Karma points distribution will be driven by 2 factors:
 
-* As the community grows, points will initially encourage activities related to user acquisition through mechanisms like referrals. Later, points will be awarded based on user retention through the contribution of qualitative content. Regardless of the nature of each activity, the Hey team will ensure that all engagement earns users Karma points.
+* As the community grows, points will initially be granted in order to encourage activities related to user acquisition. This will be carried out via mechanisms like referrals. Later, points will be awarded based on user retention through the contribution of qualitative content. That is, points will be awarded to those users who contribute valuable content to the platform, and so increase Hey's user retention. Regardless of the nature of each activity \(user acquisition vs. user retention\), the Hey team will ensure that engagement of any kind earns users Karma points.
 * As new features are added, new opportunities to earn Karma will be incorporated \(e.g., Troll Court participation\), potentially shifting earnings balances accordingly.
 
-The detailed Karma earnings table will be available at all times in each user's personal dashboard.
+The detailed Karma earnings table will be available at all times on each user's personal dashboard.
 
 ### Step-by-step Distribution Description
 
-Taking the above into account, we can describe precisely a typical distribution round. Please note that all amounts mentioned in this section are _purely illustrative._ The actual Karma scales and payout amounts are specified in their respective sections of this document.
+Taking the above into account, we can describe in detail a typical distribution round. Please note that all amounts mentioned in this section are _purely illustrative._ The actual Karma scales and payout amounts are specified in their respective sections of this document.
 
 #### 1. Karma earnings table
 
-Let's assume the following earnings table:
+For demonstrative purposes, we'll suppose the following earnings table is true:
 
 | **Activity** | **Karma payout** |
 | :--- | :--- |
@@ -177,7 +189,7 @@ Let's assume the following earnings table:
 
 #### 2. User activity
 
-Let's assume we have 3 users on the platform: Alice, Bob, and Charles. During a given day, Alice gives a like to one of Charles' former posts, and to a post Bob just posted, and Bob invites David to join Hey. As a consequence, the new Karma balance at the end of the day will be as following:
+Based on the table above, we can outline a hypothetical payout period. Assume we have 3 users on the platform: Alice, Bob, and Charles. During a given day, Alice gives a like to one of Charles' former posts, as well as to a post Bob just posted, and Bob invites David to join Hey. As a consequence, the Karma balance at the end of the day will look like this:
 
 | **User** | **New Karma earned** |
 | :--- | :--- |
@@ -188,47 +200,52 @@ Let's assume we have 3 users on the platform: Alice, Bob, and Charles. During a 
 
 #### 3. Payout distribution
 
-Let's assume 100 HEY tokens are reserved for this day's payout. By the end of the day, Bob and Charles will both receive tokens for their contributions, as per the following:
+Once Karma points have been allocated, payout distribution can be executed. If 100 HEY tokens are reserved for this day's payout, then tokens will be apportioned as follows:
 
-| **User** | **% of this day's Karma** | **HEY tokens payout** |
+| **User** | **% of this day's Karma points** | **HEY tokens payout** |
 | :--- | :--- | :--- |
-| Alice | 0% | 0 HEY |
-| Bob | 75% | 75 HEY |
-| Charles | 25% | 25 HEY |
-| David | 0% | 0 HEY |
+| Alice | 0 | 0 HEY |
+| Bob | 75 | 75 HEY |
+| Charles | 25 | 25 HEY |
+| David | 0 | 0 HEY |
 
-#### 4. New Karma balances reset and start of new period
+#### 4. New Karma balances reset and new period begins
 
-After the tokens payout, the new Karma points earned are added to the users' total balances to reflect their improved reputations, and their daily point balances are reset to zero for the start of the new period.
+After the tokens have been allocated, the day's earned Karma points are added to each user's total Karma balance, which will reflect their improved reputations on the platform. Concurrently, their daily point balances are reset to zero to signal the start of the new period.
 
 ### Deriving the Payout Amount
 
 #### General approach
 
-Setting the periodic \(daily\) payout amount requires striking a delicate balance between short- and long-term objectives: one has to give sufficient payout today to reward early users and motivate them to kick-start the community, while making sure that the project remains economically viable as the community expands over the long term. One must also take into consideration the uncertainty of when user adoption and ad income will expand and at what rate. 
+Setting the periodic \(daily\) payout amount requires striking a delicate balance between short- and long-term objectives. On one hand, Hey must provide sufficient payout 'today' in order to reward early adopters and motivate them to kick-start the community. On the other hand, we must ensure that the project remains economically viable as the community expands over the long term. All this while taking into consideration the uncertainty of timing—that is, when user adoption and ad income will expand and at what rate. 
 
 #### Steady-state regime
 
-Ultimately, the goal is that the daily payout will reflect daily token inflow to the pool \(which will in turn be equal to 50% of ad revenues\). This is the most straightforward way to reward users for the value they create. Some timing inconsistencies are expected in the early days of ad sales. That is, users might be rewarded today with revenues corresponding to ads displayed tomorrow. Such issues should be resolved quickly—as soon as the system reaches an equilibrium of constant income.
+Ultimately, the goal is for daily payout to reflect daily token influx to the pool \(which will be equal to 50% of ad revenues\). This is the most straightforward way to reward users for the value they create. Certain timing inconsistencies are expected in the early days of ad sales. That is, users might be rewarded 'today' with revenues corresponding to ads displayed 'tomorrow.' Such issues should be resolved as soon as the system reaches an equilibrium of constant income.
 
-In order to manage periods of more modest revenues, the Hey team may consider allocating certain shared of ad revenue tokens \(between 5% and 10%\) to the pool without executing a payout. This would establish a token reserve to ensure continuity of payouts during periods with decreased advertisements.  This allocation will not be decided or conducted before consulting the community.
+In order to manage periods of more modest revenue, the Hey team may consider allocating certain shares of ad revenue tokens \(between 5% and 10%\) to the pool without executing a payout. This would establish a token reserve in order to ensure continuity of payouts during periods with decreased advertisement.  This allocation will not be determined or conducted before consulting the community.
 
 #### Initial phase
 
-During the initial period, when income has yet to be generated, the payout distribution mechanism will need extra regulation as it extracts tokens from the pool. To ensure that the pool is not depleted, the daily payout will be 1/1000 of the initial number of tokens in the pool. This will ensure that Hey can sustain approximately 3 years of payouts without ad income. Still, we will strive to generate such income within the first year in order to prove business model viability. 
+During the initial phase \(ideally the first 18 months after the ICO\), when income has yet to be generated, the payout distribution mechanism will require extra regulation as it extracts tokens from the pool. In order to ensure that the pool is not depleted, the daily payout will be 1/1000 of the initial number of tokens in the pool. This will guarantee that the HEY token pool can sustain 3 years of payouts without ad income. Regardless of this precaution, we will strive to generate ad income within the first year of operation, demonstrating business model viability. 
 
-As a rule of thumb, we wish to reward users with amounts equivalent to the following:
+As a rule of thumb, we wish to reward users based on the following guidelines:
 
-* ~$1 / week for micro-influencers that get small hundreds of likes on their posts
-* ~$50 / day for influencers that make a living from publishing quality content on the platform
+* ~$1 / week for micro-influencers \(users who receive hundreds of likes on their posts\)
+* ~$50 / day for macro-influencers \(users whose main source of income is publishing quality content on the platform\)
 
-Now, if the initial pool fiat value is $5M at product launch \(a purely illustrative figure\), the daily payout would be 1/1000 of $5M—so, $5K. To be rewarded with $50 on a given day would mean capturing 1% of all user interactions \(that is, likes, upvotes, etc...\). The scale of these figures are in realistic ranges for a social network, making us confident in the 1/1000 approach.
+Let's consider two illustrative examples:
 
-Note that this 1/1000 amount is computed in tokens, not in fiat. As the token value grows proportionally to the user base, so will the payout value in fiat equivalent. Therefore, the reward should prove equally attractive for users regardless of the community size.
+1. If the initial pool's fiat value is $5M at product launch, then the corresponding daily payout would be 1/1000 of $5M—so, $5K. 
+2. In order to be rewarded with $50 on a given day, a user would need to capture 1% of all user interactions \(that is, likes, upvotes, etc...\). 
+
+The scale of these figures are in realistic ranges for a social network, making us confident in the 1/1000 approach.
 
 #### Transitory phase
 
-When ad income starts flowing in, particular care will be given to ensuring that the payout amount evolves smoothly. Indeed, we feel it would be unfair to abandon the 1/1000 approach as soon as first ad revenues are received. What if these revenues provide less payout to users? However, we are confident that no major issues should arise, as the daily payout we initially envisioned—starting at about $5K and increasing to a potentially larger number as token value appreciates—is in line with rather conservative revenue projections in terms of daily ads sales. This is true even as we factor in a multiplication of two, originating from the decision to allocate only 50% of tokens to the pool.
+When ads begin providing income, particular care will be given to ensuring that the payout amount evolves smoothly. In the case that ad revenues provide reduced payout to users, we feel it would be unfair to abandon the 1/1000 approach immediately. In this case, we would establish a progressive transition model, ensuring that users are not worse off based on advertising revenue. This model would remain in place until ad revenues proved beneficial to users awaiting payout. 
+
+Fortunately, we are confident that no major issues should arise, as the daily payout we initially envisioned—beginning at $5K and increasing as token value appreciates—is in line with conservative revenue projections in terms of daily ad sales.
 
 
 
