@@ -54,7 +54,7 @@ So as to reward early adopters of the Hey platform, the smart contract will allo
 | 10% | HEY team | Vested yearly, over a 2-year period, to guarantee the Hey team’s complete involvement in the project. |
 | 5% | Early investors | Vested yearly, over a 2-year period, proportionately to their initial investment. |
 | 3% | Contributors | Token Distribution Event \(ICO\)—to translators, designers, marketers, and early contributors who helped us build the project. |
-| 2% | Advisors | Vested yearly, over a 2-year period, to experienced professionals who provided their time and advice. |
+| 2% | Advisors | Vested early, over a 2-year period, to experienced professionals who provided their time and advice. |
 
 ### KYC process
 
