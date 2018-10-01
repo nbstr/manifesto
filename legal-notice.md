@@ -4,6 +4,8 @@ Please take the time to read the following information carefully. We want to mak
 
 ### Disclaimer
 
+Assisted by our legal counsel we will provide the Belgian regulator \(FSMA\) with a complete written and verbal overview of our project and plans, to give more context and to determine if this token sale is regulated by them. At the current time there are no further questions nor actions required.
+
 Information in this whitepaper is exclusively for general purposes and does not constitute a warranty of any sort. We may not be able to provide the products and services described in this whitepaper. Outlined expectations are purely speculative and by no means a promise of delivery.
 
 Hey is not to be considered as advisor in any legal, tax or financial matters. Any information in the white paper is given for general information purpose only, and Hey does not provide any warranty as to the accuracy and completeness of this information.
