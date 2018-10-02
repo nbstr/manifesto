@@ -30,7 +30,7 @@ David has been passionate about security and programming from a young age. He ha
 
 Robin started hacking at 10 years old. Through trojans and exploits, he learned to master offensive security, server management, and backend development in Java, Xamarin, Python, NoSQL, MongoDB, big data, Node.js, sysadmin, AWS, npm, Bash, Linux, Android, and PHP. What a world. 
 
-### Emily Bogen, Head Copywriter
+### Emily Bogen, Head of Public Affairs
 
 [https://www.linkedin.com/in/emilybogen/](https://www.linkedin.com/in/emilybogen/)
 
