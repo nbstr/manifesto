@@ -14,7 +14,7 @@ Marc is a business engineer with 5+ years of experience in business management. 
 
 Nabil is a highly skilled designer and developer. Throughout his career, he has given life to 350+ designs and developed 140+ apps \(frontend and/or backend\), many of which have had upwards of 100,000 users per month. A university drop-out and self-starter, Nabil began his professional career at an early age and has since acquired 10+ years of experience in various programming languages.
 
-### Thomas Vanderstraeten, Blockchain Trailblazer
+### Thomas Vanderstraeten, Blockchain Tech Lead
 
 [https://www.linkedin.com/in/thomas-vanderstraeten-5710a148/](https://www.linkedin.com/in/thomas-vanderstraeten-5710a148/)
 
