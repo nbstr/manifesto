@@ -141,7 +141,7 @@ At the end of every period \(typically 24h\), the Distributor \(the system in ch
 
 This demonstrates the importance of using total Karma points to calculate token distribution, rather than distributing directly after each like, comment, and other interaction. If tokens were distributed immediately after each recognition by the community, the token pool could be depleted too quickly, leaving no tokens left to reward later users. Using Karma points allows us to make sure that the total payout remains stable whatever the users' activities. Each user can earn as many token points as they'd like; at the end of the 24h period, the Distributor will distribute a set number of tokens proportionally among all users who have earned Karma points. This ensures predictable tokenomics. This system of distribution also fosters user engagement in an opportunistic way: the fewer active users there are on a given day, the more payout will be available for those active \(as they represent a bigger proportion of Karma points earned and there are fewer users to distribute to\).
 
-#### Demand-invariant number of tokens for payout {#demand-invariant-number-of-tokens-for-payout}
+#### Demand-invariant number of tokens for payout <a id="demand-invariant-number-of-tokens-for-payout"></a>
 
 In order to make user rewarding as fair and transparent as possible for the community, we will maintain a token payout that will not vary based on user demand. That is, the payout will not be directly influenced by the number of users active on the platform. We fear that conducting payout based on number of users active during a certain period would corrupt user activities, as they may artificially inflate the degree of engagement to increase payout.
 
