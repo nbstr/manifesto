@@ -50,12 +50,6 @@ David has been passionate about security and programming from a young age. He ha
 
 ## Advisors
 
-### Thomas Lenzi, Algorithm Designer
-
-[https://www.linkedin.com/in/thomas-lenzi/](https://www.linkedin.com/in/thomas-lenzi/)
-
-Thomas is a freelance software developer with a PhD in high-energy physics and a passion for entrepreneurship. He specializes in solving business challenges through data modeling and process simulation.
-
 ### Alexander Stevens, Legal Engineer
 
 [https://www.linkedin.com/in/alexander-l-c-stevens-14aabb4b/](https://www.linkedin.com/in/alexander-l-c-stevens-14aabb4b/)
