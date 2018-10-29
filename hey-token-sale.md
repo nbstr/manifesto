@@ -58,7 +58,7 @@ So as to reward early adopters of the Hey platform, the smart contract will allo
 
 ### KYC process
 
-The ICO KYC process will rely on ~~XXXX's off-the-shelf KYC solution~~. We are convinced that contributors will reckon the need for an industry-standard KYC process to guarantee the quality of the initial community. All countries are welcome to participate in KYC except for ~~the USA, China, and North Korea.~~
+The ICO KYC process relies on industry standards and aims to guarantee the quality of the initial community. At the moment of writing and due to legal restrictions, all countries are welcome to participate in KYC except for Bosnia-Herzegovina, China, Ethiopia, Iran, Iraq, North Korea, South Korea, Syria, Trinidad and Tobago, the USA, Vanuatu and Yemen.
 
 ### Exchange listing
 

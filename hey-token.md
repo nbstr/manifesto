@@ -149,11 +149,11 @@ Rather than using a _demand-driven_ model, the payout will begin with a _fixed_ 
 
 Given that the HEY token value is proportional to the number of users on the platform, the payout value will grow with the same rate as that of the Hey community. Even as the number of users grows—and thus the competition for the payout reward—the mean payout per user should retain its value when converted into fiat currency. This can be more clearly illustrated when considering the HEY token pool in a payout process. Let's look at a few steps using an example:
 
-1. The token pool size is set at 100, and each token has a certain value X based on the number of users on the Hey platform \(explained earlier in this document\).
+1. The daily sidechain tokens payout is set at 100, and each token has a certain value X based on the number of users on the Hey platform \(explained earlier in this document\).
 2. A small Hey community of 10 users is granted a payout based on their Karma points earned. For simplicity's sake, let's assume all users earned the same number of Karma points. In this case, each user is granted 10 tokens.
-3. When converted into fiat currency, these tokens are worth €1X.
+3. When converted into fiat currency, these tokens are worth USDXX.
 4. The Hey community begins to grow up until a new payout period. For now, let's say it's one month later. There are now 100 users in the community. Let's assume again that all users earn the same number of Karma points. In this case, each user is granted 1 token.
-5. When converted into fiat currency, these tokens are still worth €1X.
+5. When converted into fiat currency, each one of these tokens would still have the same value \(USDXX\), under the assumption that token value grows with the community size. 
 
 While the number of HEY tokens earned during the payout process decreased from 10 to 1, the size of the Hey community has increased by 10, and thus the value of the token respectively. When converted to fiat currency, then, the initial 10 tokens and the 1 token offered a month later are worth the same in fiat currency. 
 
