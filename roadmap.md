@@ -2,7 +2,7 @@
 
 #### Q4 2017: Beta version
 
-In march ****2017, the Beta version of the Hey extension was made available on Chrome Web Store. Our beta testers gave us feedback so we could edit features and improve the user experience.
+In March ****2017, the Beta version of the Hey extension was made available on Chrome Web Store. Our beta testers gave us feedback so we could edit features and improve the user experience.
 
 #### November 2018: Whitelist opens
 
@@ -10,11 +10,11 @@ To avoid transaction delays due to network clogging, we will open a whitelist wh
 
 #### December 2018: Token sale launch
 
-The ICO will start on December 1st, 2018. Token buyers will then be able to buy HEY tokens until January 2nd, 2019.
+The ICO will start on December 1, 2018. Token buyers will then be able to buy HEY tokens until January 2, 2019.
 
 #### Q2 2019: Hey community grows
 
-Thanks to Token buyers, our first users will become active on the Hey network and across the Internet.
+Thanks to token buyers, our first users will become active on the Hey network and across the Internet.
 
 #### Q3-Q4 2019: Additional communities join
 
