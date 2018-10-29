@@ -8,9 +8,9 @@ description: >-
 
 ### Token Sale
 
-The token sale will launch in December 2018 using an ERC20 token standard. We will release a fixed number of 150 million HEY tokens for public sale, corresponding to 50% of the total supply. The remaining token supply will be rendered inaccessible, with 30% allocated to the rewards pool and the rest elsewhere, as outlined below in the Token Distribution table.
+The token sale will launch in February 2019 using an ERC20 token standard. We will release a fixed number of 500 million HEY tokens for public sale. The remaining token supply will be rendered inaccessible, with 30% allocated to the rewards pool and the rest elsewhere, as outlined below in the Token Distribution table.
 
-The token sale will end either on a pre-set date or, if prior to this date, when the 150-million-token hard cap is reached. At this time, the smart contracts acquisition \(ICO\) will be closed. Investors will have the possibility of keeping their HEY tokens in any ERC20-compatible wallet until further exchange listings are secured. 
+The token sale will end either on a pre-set date or, if prior to this date, when the 500-million-token hard cap is reached. At this time, the smart contracts acquisition \(ICO\) will be closed. Token buyers will have the possibility of keeping their HEY tokens in any ERC20-compatible wallet until further exchange listings are secured. 
 
 ### Key token parameters
 
@@ -20,20 +20,20 @@ The token sale will end either on a pre-set date or, if prior to this date, when
 | Protocol | Ethereum |
 | Token standard | ERC20 |
 | Decimals | 18 |
-| Total supply | 300,000,000 HEY \(of which 50% circulating\) |
+| Total supply | 1,000,000,000 HEY \(of which 50% circulating\) |
 
 ### Key ICO figures
 
 | Key ICO figures | Values |
 | :--- | :--- |
-| ICO start | December 3, 2018 |
-| ICO end | January 31, 2019 \(included\) |
-| Supply for sale | 150,000,000 HEY |
-| Currencies accepted | ETH |
-| Price | 4,000 HEY = 1 ETH |
+| ICO start | February 1st, 2019 |
+| ICO end | February 28th, 2019 \(included\) |
+| Supply for sale | 500,000,000 HEY |
+| Currencies accepted | ETH, BTC, EUR, USD |
+| Price | 5,000 HEY = 1 ETH |
 | Minimum contribution | 0.1 ETH |
-| Hard cap | 150,000,000 HEY \(37 500 ETH\)  |
-| Soft cap | 30,000,000 HEY \(20% of hard cap, 7 500 ETH\) |
+| Soft cap | 100,000,000 HEY \(20% of hard cap, 20,000 ETH\) |
+| Hard cap | 500,000,000 HEY \(100,000 ETH\)  |
 
 ### Early adopter incentives
 
@@ -41,9 +41,9 @@ So as to reward early adopters of the Hey platform, the smart contract will allo
 
 | Phase | HEY bonus | Minimum contribution |
 | :--- | :--- | :--- |
-| Pre-ico | ~~25%~~ | ~~10 ETH~~ |
-| Pre-ico | ~~30%~~ | ~~20 ETH~~ |
-| ICO day 1 | ~~10%~~ | ~~2.5 ETH~~ |
+| Pre-ico | 10% | 50 ETH |
+| Pre-ico | 20% | 500 ETH |
+| ICO day 1 | 10% | 10 ETH |
 
 ### Token Distribution
 
