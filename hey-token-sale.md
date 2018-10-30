@@ -20,7 +20,7 @@ The token sale will end either on a pre-set date or, if prior to this date, when
 | Protocol | Ethereum |
 | Token standard | ERC20 |
 | Decimals | 18 |
-| Total supply | 1,000,000,000 HEY \(of which 50% circulating\) |
+| Total supply | 1,000,000,000 HEY \(of which 50% available for sale\) |
 
 ### Key ICO Figures
 
