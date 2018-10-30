@@ -41,9 +41,12 @@ So as to reward early adopters of the Hey platform, the smart contract will allo
 
 | Phase | HEY bonus | Minimum contribution |
 | :--- | :--- | :--- |
-| Pre-ico | 10% | 50 ETH |
-| Pre-ico | 20% | 500 ETH |
+| Pre-sale | 10% | 50 ETH |
+| Pre-sale | 20% | 500 ETH |
 | ICO day 1 | 10% | 10 ETH |
+| ICO \(after day 1\) | 0% | 0.1 ETH |
+
+If you want to participate in the pre-sale, contact us at **presale\[at\]hey.network**.
 
 ### Token Distribution
 
