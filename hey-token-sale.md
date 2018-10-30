@@ -63,7 +63,9 @@ If you want to participate in the pre-sale, kindly contact us at **presale\[at\]
 
 The ICO KYC process relies on industry standards and aims to guarantee the quality of the initial community. At the moment of writing and due to legal restrictions, all countries are welcome to participate in KYC except for Bosnia-Herzegovina, China, Ethiopia, Iran, Iraq, North Korea, South Korea, Syria, Trinidad and Tobago, the USA, Vanuatu and Yemen.
 
-### Exchange Listing
+### Transfers and Exchange Listing
+
+Tokens will be made transferrable as soon as the ICO closes.
 
 The Hey team will initiate discussions with potential exchange partners in order to secure a listing in the months after the ICO's end. Having an efficient exchange will be key to fulfilling the Hey vision of circular economics—where advertisers can buy tokens in exchange for ads displays, ultimately contributing to the rewards pool.
 
