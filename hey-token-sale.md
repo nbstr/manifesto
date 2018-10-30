@@ -29,7 +29,7 @@ The token sale will end either on a pre-set date or, if prior to this date, when
 | ICO start | February 1st, 2019 |
 | ICO end | February 28th, 2019 \(included\) |
 | Supply for sale | 500,000,000 HEY |
-| Currencies accepted | ETH, BTC, EUR, USD |
+| Currencies accepted | ETH |
 | Price | 5,000 HEY = 1 ETH |
 | Minimum contribution | 0.1 ETH |
 | Soft cap | 100,000,000 HEY \(20% of hard cap, 20,000 ETH\) |
