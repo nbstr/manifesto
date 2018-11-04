@@ -34,7 +34,7 @@ Emily is an American-born writer who began her stint in the startup circle just 
 
 ### Robin Poncin, Software Engineer & Sysadmin
 
-Robin started hacking at 10 years old. Through trojans and exploits, he learned to master offensive security, server management, and backend development in Java, Xamarin, Python, NoSQL, MongoDB, big data, Node.js, sysadmin, AWS, npm, Bash, Linux, Android, and PHP. What a world. 
+Robin started hacking at 10 years old. Through trojans and exploits, he learned to master offensive security, server management, and backend development in Java, Xamarin, Python, NoSQL, MongoDB, big data, Node.js, sysadmin, AWS, npm, Bash, Linux, Android, and PHP. 
 
 ### Thomas Collart, Full-Stack Developer
 
