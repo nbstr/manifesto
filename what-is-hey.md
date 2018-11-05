@@ -10,7 +10,7 @@ Hey works as an extension users install on their browser, or as a widget webmast
 
 It functions as an additional layer on top of the page—a discussion just one click away. That way, if users want to comment on content, whether a website owner has provided a platform or not, they can. This is how Hey makes total transparency a reality for every user and publisher.
 
-Once you've added the Hey extension to your brower, its icon will appear in the corner of every page you visit. Clicking the icon opens our application, allowing users to comment on content and communicate with each other. Interactions are saved and displayed on the associated page.
+Once you've added the Hey extension to your browser, its icon will appear in the corner of every page you visit. Clicking the icon opens our application, allowing users to comment on content and communicate with each other. Interactions are saved and displayed on the associated page.
 
 Want to take part in a debate? One click takes you to conversations in Hey, where you can comment or ask questions. Each time other users react to your post, you will receive a notification via email as well as within the extension. Notifications will be grouped in order to avoid overload and can be shut off entirely based on user preference. Within the platform, you can debate ideas, report abuse, share tips, or ask for additional information in all sorts of situations.
 
