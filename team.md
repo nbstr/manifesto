@@ -56,3 +56,19 @@ David has been passionate about security and programming from a young age. He ha
 
 Alexander is a legal engineer focusing on smart contracts and a New York licensed attorney. He graduated from Harvard Law School and the Free University of Brussels.
 
+### Shorish Research
+
+[https://shorishresearch.com/](https://shorishresearch.com/)
+
+Shorish Research works with enterprises to develop state-of-the-art applications of new technologies that disrupt current business approaches. They use proven mathematical relationships to help firms identify efficiency gains and spot problem areas when adapting to new and emerging fintech practices, blockchain applications, and more–and provide a roadmap to implement these technologies using lightweight and agile methodologies that minimize intra- and inter-organizational disruption.
+
+### Keyrock
+
+[https://keyrock.eu/](https://keyrock.eu/)
+
+Keyrock combines in-house algorithmic trading bots, high frequency trading infrastructure and industry expertise to supply market making and liquidity services to the cryptocurrency ecosystem.
+
+### 
+
+### 
+
