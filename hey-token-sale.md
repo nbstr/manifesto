@@ -1,16 +1,16 @@
 ---
 description: >-
   Please note that figures on this page are subject to change up until the
-  public ICO start date.
+  public Token sale start date.
 ---
 
 # HEY token sale
 
 ### Token Sale
 
-The token sale will launch in February 2019 using an ERC20 token standard. We will release a fixed number of 500 million HEY tokens for public sale. The remaining token supply will not be made available for sale, with 30% allocated to the rewards pool and the rest elsewhere, as outlined below in the Token Distribution table.
+The token sale will launch in April 2019 using an ERC20 token standard. We will release a fixed number of 500 million HEY tokens for public sale. The remaining token supply will not be made available for sale, with 30% allocated to the rewards pool and the rest elsewhere, as outlined below in the Token Distribution table.
 
-The token sale will end either by the end of February 2019 or, if prior to this date, when the 500-million-tokens hard cap is reached. At this time, the smart contract acquisition \(ICO\) will be closed. Token buyers will have the possibility of keeping their HEY tokens in any ERC20-compatible wallet until further exchange listings are secured.
+The token sale will end either by the end of April 2019 or, if prior to this date, when the 500-million-tokens hard cap is reached. At this time, the smart contract acquisition \(ICO\) will be closed. Token buyers will have the possibility of keeping their HEY tokens in any ERC20-compatible wallet until further exchange listings are secured.
 
 ### Smart contracts
 
@@ -32,8 +32,8 @@ Please note that these smart contracts are ultimately the only binding agreement
 
 | Key ICO figures | Values |
 | :--- | :--- |
-| ICO start | February 1st, 2019 |
-| ICO end | February 28th, 2019 \(included\) |
+| ICO start | April 1st, 2019 |
+| ICO end | April 30th, 2019 \(included\) |
 | Supply for sale | 500,000,000 HEY |
 | Currencies accepted | ETH |
 | Price | 4,000 HEY = 1 ETH |
