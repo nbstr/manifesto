@@ -14,23 +14,17 @@ Marc is a business engineer with 5+ years of experience in business management. 
 
 Nabil is a highly skilled designer and developer. Throughout his career, he has given life to 350+ designs and developed 140+ apps \(frontend and/or backend\), many of which have had upwards of 100,000 users per month. A university drop-out and self-starter, Nabil began his professional career at an early age and has since acquired 10+ years of experience in various programming languages.
 
-### Olivier Tabery, COO
-
-[https://www.linkedin.com/in/oliviertabery/](https://www.linkedin.com/in/oliviertabery/)
-
-Olivier’s professional path has been packed with changes and travel while maintaining a focus on investment, analytics, and business operations. He kicked things off in the startup world, working as co-founder and fundraiser for an alternative assets investment fund focused on classic cars, where he secured €1M+. After getting the project off the ground, he took the next step overseas, flying to Chicago for a longer stint in private equity. The Windy City is where he caught the blockchain bug, and the same place he started a small cryptocurrency fund for friends and family to invest. Olivier has since moved back to Belgium and gotten his hands dirty at _Hey_, where he uses his hard-earned analytical, operational, technological, and intercultural skills to manage a growing team and build a burgeoning project.
-
 ### Thomas Vanderstraeten, Blockchain Tech Lead
 
 [https://www.linkedin.com/in/thomas-vanderstraeten-5710a148/](https://www.linkedin.com/in/thomas-vanderstraeten-5710a148/)
 
 Thomas started his career spending three and a half years advising tech CEOs and CTOs at Bain & Company, the world's \#3 management consulting firm. After running the gamut of projects in a formal tech role, he traded his suit and tie for lumberjack shirts, smoothies, and nights of coding. He has since launched several tech ventures, one of which raised €1M+. Thomas combines a strategic and structured vision with the willingness to get his hands dirty in implementation details of sophisticated blockchain systems. He has a particular taste for the Ethereum protocol, but likes to keep his options open.
 
-### Emily Bogen, Head of Public Affairs
+### Olivier Tabery, COO
 
-[https://www.linkedin.com/in/emilybogen/](https://www.linkedin.com/in/emilybogen/)
+[https://www.linkedin.com/in/oliviertabery/](https://www.linkedin.com/in/oliviertabery/)
 
-Emily is an American-born writer who began her stint in the startup circle just one year ago. After completing two fellowships and publishing a book in the U.S., Emily moved to Brussels and began working for a pan-European startup association as Communications and Policy Coordinator. She now spends half-time at ESN, complementing her work as Hey's Head Copywriter. 
+Olivier began his career by launching an alternative assets investment fund focused on classic cars. There, he worked as a co-founder and fundraiser, securing €1M and striking a balance between financial analytics and operational expertise. He later moved to Chicago and worked for a Private Equity Search Fund. He encountered blockchain technology for the first time at a neighborhood meetup and dove in, quickly raising money and creating a small cryptocurrency fund for friends and family to invest. He’s since moved back to Belgium and started his time at Hey, where he uses his analytical, operational, and technological skills to manage a growing team.
 
 ### Robin Poncin, Software Engineer & Sysadmin
 
@@ -40,7 +34,13 @@ Robin started hacking at 10 years old. Through trojans and exploits, he learned 
 
 [https://www.linkedin.com/in/thomascollart/](https://www.linkedin.com/in/thomascollart/)
 
-Thomas began coding at a young age—tinkering around on the family computer and building sample websites without an audience in mind. The interest stuck, and he soon jumped into a university computer science program. Too inspired for the rigidity of academia, he left uni life and jumped into a rigorous coding environment at École 42, for which he credits his autonomy and willingness to try, fail, and try again. He built his expertise as a digital nomad, building mobile apps like Raid Boss. Along the way, he’s obtained T-shaped skills and acquired a deep knowledge in full-stack web and mobile development, as well as design, marketing, and blockchain technologies. The \(professional\) party doesn’t stop there—as a crypto investor, he’s accrued a portfolio of knowledge regarding technical analysis, crypto-economic, technological limitations, and stakes for blockchain mass. Along the way, he met Hey’s cofounder and CTO, Nabil Kamel, at a blockchain meetup, where they discussed blockchain technology, cryptocurrency, and the Hey project. It was fast finding common ground, and Thomas has since joined the team as our Full-Stack Developer.
+Thomas began coding at a young age—tinkering around on the family computer and building sample websites without an audience in mind. The interest stuck,  and he jumped into a rigorous coding environment at École 42, for which he credits his autonomy and willingness to try, fail, and try again. He built his expertise as a digital nomad, building mobile apps like Raid Boss. Along the way, he’s obtained T-shaped skills and acquired a deep knowledge in full-stack web and mobile development, as well as design, marketing, and blockchain technologies.
+
+### Emily Bogen, Head of Public Affairs
+
+[https://www.linkedin.com/in/emilybogen/](https://www.linkedin.com/in/emilybogen/)
+
+Emily is an American-born writer who began her stint in the startup circle just one year ago. After completing two fellowships and publishing a book in the U.S., Emily moved to Brussels and began working for a pan-European startup association as Communications and Policy Coordinator. She now spends half-time at ESN, complementing her work as Hey's Head Copywriter. 
 
 ### David Carliez, Computer Security Expert
 
