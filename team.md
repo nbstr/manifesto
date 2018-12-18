@@ -24,7 +24,7 @@ Olivier began his career by launching an alternative assets investment fund focu
 
 [https://www.linkedin.com/in/thomas-vanderstraeten-5710a148/](https://www.linkedin.com/in/thomas-vanderstraeten-5710a148/)
 
-Thomas started his career spending three and a half years advising tech CEOs and CTOs at Bain & Company, the world's \#3 management consulting firm. After running the gamut of projects in a formal tech role, he traded his suit and tie for lumberjack shirts, smoothies, and nights of coding. He has since launched several tech ventures, one of which raised €1M+. Thomas combines a strategic and structured vision with the willingness to get his hands dirty in implementation details of sophisticated blockchain systems. He has a particular taste for the Ethereum protocol, but likes to keep his options open.
+Thomas started his career spending three and a half years advising tech CEOs and CTOs at Bain & Company, the world's \#3 management consulting firm. After running the gamut of projects in a formal tech role, he traded his suit and tie for lumberjack shirts, smoothies, and nights of coding. He has since launched several tech ventures. Thomas combines a strategic and structured vision with the willingness to get his hands dirty in implementation details of sophisticated blockchain systems. He has a particular taste for the Ethereum protocol, but likes to keep his options open.
 
 ### Robin Poncin, Software Engineer & Sysadmin
 
