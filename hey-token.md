@@ -223,29 +223,13 @@ Setting the periodic \(daily\) payout amount requires striking a delicate balanc
 
 Ultimately, the goal is for daily payout to reflect daily token influx to the pool \(which will be equal to 50% of ad revenues\). This is the most straightforward way to reward users for the value they create. Certain timing inconsistencies are expected in the early days of ad sales. That is, users might be rewarded 'today' with revenues corresponding to ads displayed 'tomorrow.' Such issues should be resolved as soon as the system reaches an equilibrium of constant income.
 
-In order to manage periods of more modest revenue, the Hey team may consider allocating certain shares of ad revenue tokens \(between 5% and 10%\) to the pool without executing a payout. This would establish a token reserve in order to ensure continuity of payouts during periods with decreased advertisement.  This allocation will not be determined or conducted before consulting the community.
-
 #### Initial phase
 
 During the initial phase \(ideally the first 18 months after the ICO\), when income has yet to be generated, the payout distribution mechanism will require extra regulation as it extracts tokens from the pool. In order to ensure that the pool is not depleted, the daily payout will be 1/1000 of the initial number of tokens in the pool. This will guarantee that the HEY token pool can sustain 3 years of payouts without ad income. Regardless of this precaution, we will strive to generate ad income within the first year of operation, demonstrating business model viability. 
 
-As a rule of thumb, we wish to reward users based on the following guidelines:
-
-* ~$1 / week for micro-influencers \(users who receive hundreds of likes on their posts\)
-* ~$50 / day for macro-influencers \(users whose main source of income is publishing quality content on the platform\)
-
-Let's consider two illustrative examples:
-
-1. If the initial pool's fiat value is $5M at product launch, then the corresponding daily payout would be 1/1000 of $5M—so, $5K. 
-2. In order to be rewarded with $50 on a given day, a user would need to capture 1% of all user interactions \(that is, likes, upvotes, etc...\). 
-
-The scale of these figures are in realistic ranges for a social network, making us confident in the 1/1000 approach.
-
 #### Transitory phase
 
 When ads begin providing income, particular care will be given to ensuring that the payout amount evolves smoothly. In the case that ad revenues provide reduced payout to users, we feel it would be unfair to abandon the 1/1000 approach immediately. In this case, we would establish a progressive transition model, ensuring that users are not worse off based on advertising revenue. This model would remain in place until ad revenues proved beneficial to users awaiting payout. 
-
-Fortunately, we are confident that no major issues should arise, as the daily payout we initially envisioned—beginning at $5K and increasing as token value appreciates—is in line with conservative revenue projections in terms of daily ad sales.
 
 
 
