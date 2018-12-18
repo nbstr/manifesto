@@ -14,17 +14,17 @@ Marc is a business engineer with 5+ years of experience in business management. 
 
 Nabil is a highly skilled designer and developer. Throughout his career, he has given life to 350+ designs and developed 140+ apps \(frontend and/or backend\), many of which have had upwards of 100,000 users per month. A university drop-out and self-starter, Nabil began his professional career at an early age and has since acquired 10+ years of experience in various programming languages.
 
-### Thomas Vanderstraeten, Blockchain Tech Lead
-
-[https://www.linkedin.com/in/thomas-vanderstraeten-5710a148/](https://www.linkedin.com/in/thomas-vanderstraeten-5710a148/)
-
-Thomas started his career spending three and a half years advising tech CEOs and CTOs at Bain & Company, the world's \#3 management consulting firm. After running the gamut of projects in a formal tech role, he traded his suit and tie for lumberjack shirts, smoothies, and nights of coding. He has since launched several tech ventures, one of which raised €1M+. Thomas combines a strategic and structured vision with the willingness to get his hands dirty in implementation details of sophisticated blockchain systems. He has a particular taste for the Ethereum protocol, but likes to keep his options open.
-
 ### Olivier Tabery, COO
 
 [https://www.linkedin.com/in/oliviertabery/](https://www.linkedin.com/in/oliviertabery/)
 
 Olivier began his career by launching an alternative assets investment fund focused on classic cars. There, he worked as a co-founder and fundraiser, securing €1M and striking a balance between financial analytics and operational expertise. He later moved to Chicago and worked for a Private Equity Search Fund. He encountered blockchain technology for the first time at a neighborhood meetup and dove in, quickly raising money and creating a small cryptocurrency fund for friends and family to invest. He’s since moved back to Belgium and started his time at Hey, where he uses his analytical, operational, and technological skills to manage a growing team.
+
+### Thomas Vanderstraeten, Blockchain Tech Lead
+
+[https://www.linkedin.com/in/thomas-vanderstraeten-5710a148/](https://www.linkedin.com/in/thomas-vanderstraeten-5710a148/)
+
+Thomas started his career spending three and a half years advising tech CEOs and CTOs at Bain & Company, the world's \#3 management consulting firm. After running the gamut of projects in a formal tech role, he traded his suit and tie for lumberjack shirts, smoothies, and nights of coding. He has since launched several tech ventures, one of which raised €1M+. Thomas combines a strategic and structured vision with the willingness to get his hands dirty in implementation details of sophisticated blockchain systems. He has a particular taste for the Ethereum protocol, but likes to keep his options open.
 
 ### Robin Poncin, Software Engineer & Sysadmin
 

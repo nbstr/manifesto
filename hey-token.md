@@ -147,13 +147,15 @@ In order to make user rewarding as fair and transparent as possible for the comm
 
 Rather than using a _demand-driven_ model, the payout will begin with a _fixed_ number of tokens \(see corresponding section below\) and will ultimately evolve into a _supply-driven_ model. In the supply-driven model, the number of tokens available for payout ultimately depends on the number of tokens contributed to the pool from advertising sales.
 
-Given that the HEY token value is proportional to the number of users on the platform, the payout value will grow with the same rate as that of the Hey community. Even as the number of users grows—and thus the competition for the payout reward—the mean payout per user should retain its value when converted into fiat currency. This can be more clearly illustrated when considering the HEY token pool in a payout process. Let's look at a few steps using an example:
+Given that the HEY token value is proportional to the number of users on the platform, the token usage value should grow with a rate very similar to that of the Hey community. Even as the number of users grows—and thus the competition for the payout reward—the mean payout per user should more or less retain its value when converted into usage \(that is, ads impressions on the Hey platform\). While we cannot promise perfectly linear growth in token value, we _can_ do so in considering usage value. Consider ad purchasing:
 
-1. The daily sidechain tokens payout is set at 100, and each token has a certain value X based on the number of users on the Hey platform \(explained earlier in this document\).
+1. The daily sidechain tokens payout is set at 100, and each token has a certain value X based on the number of users on the Hey platform \(explained earlier in this document\) - let's say each token grants its holder the right to print an ad for 10 viewers.
 2. A small Hey community of 10 users is granted a payout based on their Karma points earned. For simplicity's sake, let's assume all users earned the same number of Karma points. In this case, each user is granted 10 tokens.
-3. When converted into fiat currency, these tokens are worth USDXX.
-4. The Hey community begins to grow up until a new payout period. For now, let's say it's one month later. There are now 100 users in the community. Let's assume again that all users earn the same number of Karma points. In this case, each user is granted 1 token.
-5. When converted into fiat currency, each one of these tokens would still have the same value \(USDXX\), under the assumption that token value grows with the community size. 
+3. When converted to their usage value, the tokens of each holder would grant her the right to print 10 x 10 = 100 ad views.
+4. The Hey community begins to grow up until a new payout period. For now, let's say it's one month later. There are now 100 users in the community. Let's assume again that all users earn the same number of Karma points. In this case, each user is now granted 1 token.
+5. Because the Hey users community has grown tenfold, each ad that was previously purchasable for 1 token now has a viewers reach that has grown tenfold as well.
+6. When converted to their usage value, the 1 token payout of each user thus still grants them the right to print 1 x 100 = 100 ad views.
+7. When converted into fiat currency, each one of these tokens would still have the same value \(USDXX\), under the assumption that token value grows with the community size. 
 
 While the number of HEY tokens earned during the payout process decreased from 10 to 1, the size of the Hey community has increased by 10, and thus the value of the token respectively. When converted to fiat currency, then, the initial 10 tokens and the 1 token offered a month later are worth the same in fiat currency. 
 
