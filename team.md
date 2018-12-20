@@ -56,11 +56,11 @@ David has been passionate about security and programming from a young age. He ha
 
 Alexander is a legal engineer focusing on smart contracts and a New York licensed attorney. He graduated from Harvard Law School and the Free University of Brussels.
 
-### Shorish Research
+### Dr. Jamsheed Shorish, Shorish Reserrch
 
 [https://shorishresearch.com/](https://shorishresearch.com/)
 
-Shorish Research works with enterprises to develop state-of-the-art applications of new technologies that disrupt current business approaches. They use proven mathematical relationships to help firms identify efficiency gains and spot problem areas when adapting to new and emerging fintech practices, blockchain applications, and more–and provide a roadmap to implement these technologies using lightweight and agile methodologies that minimize intra- and inter-organizational disruption.
+As CEO and Founder of Shorish Research, Dr. Shorish provides fintech-related services to startups and established enterprises in the area of computational business. Holding a Master's and Ph.D. from the Tepper School of Business at Carnegie Mellon University, Dr. Shorish engages at the interface between academic and applied research to leverage cutting-edge results from game theory, mechanism design, and contract theory. Service provision has included blockchain- and token-related solutions for incentive mechanism assessment and design, in addition to exploring the forefront of research in the nascent field of token economics. With over 20 years of undergraduate and graduate school teaching experience, Dr. Shorish also provides outreach services to academic and non-academic institutions and commercial enterprises.
 
 ### Keyrock
 
