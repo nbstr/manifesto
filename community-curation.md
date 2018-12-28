@@ -18,7 +18,7 @@ HAC scripts are able to detect suspect behaviours, which are automatically flagg
 
 We have developed several additional techniques to discern bot behaviors. For security reasons, we won’t go into further detail here.
 
-#### Hey Troll Court \(HTC\)
+#### Overwatch
 
 In addition to our automatic flagging system, Hey community members can report unusual or excessive behaviours. While we may all have different opinions, points of view, or feelings when facing sensitive issues, it doesn’t mean we should defame, insult, or disrespect at each other. Unfortunately, some of us seem to think otherwise, and do so very candidly. The Internet folks have even coined a word for them: trolls.
 
