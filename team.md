@@ -40,7 +40,7 @@ Thomas began coding at a young age—tinkering around on the family computer and
 
 [https://www.linkedin.com/in/emilybogen/](https://www.linkedin.com/in/emilybogen/)
 
-Emily is an American-born writer who began her stint in the startup circle just one year ago. After completing two fellowships and publishing a book in the U.S., Emily moved to Brussels and began working for a pan-European startup association as Communications and Policy Coordinator. She now spends half-time at ESN, complementing her work as Hey's Head Copywriter. 
+Emily is an American-born writer who began her stint in the startup circle just one year ago. After completing two fellowships and publishing a book in the U.S., Emily moved to Brussels and began working for a pan-European startup association as Communications and Policy Coordinator. She now spends half-time at ESN, complementing her work as Hey's Head of Public Affairs. 
 
 ### David Carliez, Computer Security Expert
 
