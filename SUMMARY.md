@@ -16,3 +16,8 @@
 * [Legal notice](legal-notice.md)
 * [Connect to the community](connect-to-the-community.md)
 
+## FAQ
+
+* [Hey](faq/hey.md)
+* [Token sale](faq/token-sale.md)
+
