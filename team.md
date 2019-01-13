@@ -60,9 +60,11 @@ Alexander is a legal engineer focusing on smart contracts and a New York license
 
 [https://shorishresearch.com/](https://shorishresearch.com/)
 
-As CEO and Founder of Shorish Research, Dr. Shorish provides fintech-related services to startups and established enterprises in the area of computational business. Holding a Master's and Ph.D. from the Tepper School of Business at Carnegie Mellon University, Dr. Shorish engages at the interface between academic and applied research to leverage cutting-edge results from game theory, mechanism design, and contract theory. Service provision has included blockchain- and token-related solutions for incentive mechanism assessment and design, in addition to exploring the forefront of research in the nascent field of token economics. With over 20 years of undergraduate and graduate school teaching experience, Dr. Shorish also provides outreach services to academic and non-academic institutions and commercial enterprises.
+Shorish Research focuses on emerging fintech and blockchain applications, using its mathematical and analytical expertise—including game theory, mechanism design, and contact theory—to ensure its clients' success. With a master's and Ph.D. from the Tepper School of Business at Carnegie Mellon University, Dr. Shorish \(founder and CEO of Shorish Research\) provides computational business services to startups and established enterprises.
 
 ### Keyrock
+
+Shorish Research focuses on emerging fintech and blockchain applications, using its mathematical and analytical expertise—including game theory, mechanism design, and contact theory—to ensure its clients' success. With a master's and Ph.D. from the Tepper School of Business at Carnegie Mellon University, Dr. Shorish \(founder and CEO of Shorish Research\) provides computational business services to startups and established enterprises.
 
 [https://keyrock.eu/](https://keyrock.eu/)
 
