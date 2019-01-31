@@ -1,4 +1,4 @@
-# Token sale
+# Token Sale
 
 ## When is the token sale?
 
