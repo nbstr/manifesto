@@ -1,6 +1,6 @@
 # Abstract.
 
-The web isn't what it once was: it seems we've gone from young, wild, and free to strict, old, and in bed by 20.30.  🚀
+The web isn't what it once was: it seems we've gone from young, wild, and free to strict, old, and in bed by 20.30. 
 
 The Internet—a place we learned to read, write, and roam free—is growing more censored by the day, full of fools declaring _fake news_ and forcing valuable information to be covered up or taken down. We're here to say _Hey,_ not cool. It's time to soften up, search for our roots, and take back control. We want a new Internet norm—positive impact and supportive interaction.
 
