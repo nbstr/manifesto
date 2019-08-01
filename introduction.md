@@ -1,32 +1,19 @@
+---
+description: What is Hey?
+---
+
 # Introduction
 
-> _Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers._
->
-> Article 19, Universal Declaration of Human Rights - December 10, 1948
+Just ten years ago, social media was still considered a novelty. Even though more and more people were getting on-board, concepts like influencers, Instagram models, live news Tweets, and social media campaigns only came later, once the entire world began to realize the unfettered access that the digital sphere had to an individual. Following that explosion, people have gotten a lot more savvy about what they put out and where. But even that’s enough, not when so many of these social media giants have built their entire business model around the invasion and monetization of privacy. But even so, doesn’t it destroy the point of social media to create closed networks?
 
-It took centuries for human beings to gain the fundamental right to express their beliefs without fearing repression or imprisonment.
+So what is Hey? It’s a mobile app that’s \(soon\) coming to web browsers. Consider it the next step forward for social media, giving people the tools they need to build their own places.
 
-This principle has been used, protected, quoted in court, distorted, misinterpreted, manipulated, attacked, destabilized, strengthened, and rescued time and time again. The controversy around Freedom of Speech hasn't dwindled, but tools to maintain the term's integrity have evolved.
+### Semi-public concept
 
-Less than 30 years ago, the Internet transformed our lives. Suddenly, all populations were interwoven—villages, cities, countries, even continents could connect. Information was ubiquitous, and Internet users had access to modes of communication that hadn't yet existed. They could interact across the globe, and so could organize, lobby, and oppose accordingly. That is, web users acquired an unprecedented power to stand against centralized authorities.
+The semi-public concept is the compromise between the unfiltered public nature of post-based social media and the limited opportunities to build communities in private social media. Networks create segmentation within the user base, letting people easily devote themselves to only the stream of information that they’re interested in. However, networks aren’t closed doors either; users can easily access other networks and keep track of certain channels inside them. This all means that although networks create natural hubs around  a central idea, users aren’t beholden to them. In essence, a user can pick and choose exactly what they want to see while still having access to the entirety of Hey.Network and best of all, what they post in one network won’t crossover into another. This is all just fancy talk for Grandma isn’t gonna see anything too risque for her eyes, thank god.
 
-It seems that Internet users, however, have yet to fully exploit the opportunities they have been granted by the advent of the World Wide Web.
+### Organizational control
 
-Here’s why:
+Hey is built on networks. Anyone can be in a network and anyone can make a network, with no cap on how many members it has and administrative control left up to the network master. Inside each network, you have channels. Depending on the needs of that network, these channels can be organized by topic, date, name, and so on. This is to create a communicative environment that is easy to navigate to reduce one of the biggest frustrations of modern social media, i.e. the overload of information.  
 
-### **Information is all over the place.**
-
-The web as we know it today is brimming with content. The challenge no longer lies in finding information, but rather in finding the right information.
-
-Users have to browse through umpteen comments, unsubstantiated news, questions, opinions, reviews, forums, surveys, specialized websites, and social networks. This all before they are able to find what they are looking for. At such a rate, users generally end up more confused than when they began searching and might as well have skipped the process entirely.
-
-### **Communication flows one way.**
-
-While they exist to some extent, comments sections and chat boxes are not particularly common on most websites. There exist a few exceptions to this rule, including instances in which big players like Amazon, Google, and Facebook put review sections in place. Still, the vast majority of web page owners display solely the information they'd like you to see. Oftentimes, you have no choice but to passively consume the content provided to you.
-
-Peer-to-peer contact is another Internet communication challenge. Most of the time, unless a website owner provides a built-in forum \(a rare occurrence\), there are limited opportunities to interact directly with other users. While they may try to connect via Facebook groups or alternative social media platforms if and when available, this search requires additional work and most users are not willing to go the extra mile.
-
-### **Qualitative content is not fairly rewarded.**
-
-Today, most profits made from advertisements on forums, social media, and other platforms are granted to the website owner. We argue that the process should prove more equitable: profits should be shared between all users who create quality content.
 

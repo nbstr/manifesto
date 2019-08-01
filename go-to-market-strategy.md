@@ -12,18 +12,6 @@ This is what Facebook did. It started at Harvard, then extended the network step
 
 With Hey, we will employ the same approach, with our first focus being to onboard the cryptocurrency community. Once we have a broad enough user base there, we'll move on to the gaming community. This expansion pattern will continue, as we move to increase market reach segment by segment.
 
-### Reward System
-
-Hey's reward and referral system is one of its cardinal strengths and serves as our principal engagement tool. Here’s how it works:
-
-Each time someone likes or comments on a posts, resolves an issue, or invites a friend to join the platform, they get rewarded with impact points. Every day, the user will receive a number of HEY tokens proportional to their engagement, all of which hold a legitimate tradable value.
-
-This system encourages users to participate in discussions by rewarding content creators from the start.
-
-### Referral Program
-
-Still, engagement isn’t the only way users can be rewarded on the platform. We also offer tokens to users whose friends have downloaded the Hey extension or widget \(see Appendix 1\).
-
 ### First Users
 
 To engage our first users, we will create daily content with the help of our beta testers. On pages where there is not yet content, Hey will offer users redirection to similar pages where activity already exists.

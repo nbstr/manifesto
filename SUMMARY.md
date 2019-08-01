@@ -2,7 +2,6 @@
 
 * [Abstract.](README.md)
 * [Introduction](introduction.md)
-* [What is Hey?](what-is-hey.md)
 * [Key features](key-features.md)
 * [Community curation](community-curation.md)
 * [Go-to-market strategy](go-to-market-strategy.md)
@@ -17,7 +16,6 @@
   * [I have a problem](ask/faq/i-have-a-problem.md)
   * [Questions and Answers](ask/faq/questions-and-answers/README.md)
     * [Hey](ask/faq/questions-and-answers/hey.md)
-    * [Token Sale](ask/faq/questions-and-answers/token-sale.md)
   * [Privacy](ask/faq/privacy.md)
 * [Profile Settings](ask/profile-settings.md)
 * [Policies and Reporting](ask/policies-and-reporting.md)

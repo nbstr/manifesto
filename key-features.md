@@ -1,3 +1,7 @@
+---
+description: The cool stuff
+---
+
 # Key features
 
 To make it easy, comfortable, and safe to use, we’ve developed a series of key features.
@@ -8,7 +12,7 @@ To make it easy, comfortable, and safe to use, we’ve developed a series of key
 
 #### Notifications
 
-Notifications allow you to swiftly reply to comments on your posts and stay up to date on the discussions you follow. They are integrated to your browser; you can also choose to receive them via email.
+Notifications allow you to swiftly reply to comments on your posts and stay up to date on the discussions you follow. They are integrated to your browser so you can also choose to receive them via email.
 
 #### Follow
 
@@ -24,15 +28,11 @@ Of course, emojis! 😝😯😸 The most frequently used from across the Interne
 
 #### History
 
-Right after you install the extension, you are able to begin consulting the history of your activity — be it comments, likes, or posts.
+Right after you install the extension, you can look at your activity history — be it comments, likes, or posts.
 
-#### HeyBoard
+#### Channels
 
-The HeyBoard is a forum for the experienced, altruistic user. Here, individuals can browse unresolved issues and answer miscellaneous questions. No need, even, to visit the inquiry’s original site—unfinished affairs are aggregated on the HeyBoard. A painless way to help peers and pocket tokens.
-
-#### Tags
-
-Hashtags \(\#\) will allow you to browse discussions and comments by theme or trending topic.
+Channels allow you to browse discussions and comments by theme or trending topic. You can follow your favorite channels do you can get exactly the content you want.
 
 #### Profile
 
@@ -40,13 +40,7 @@ In your profile, you will have the opportunity to list topics of interest and hi
 
 ### Gamification
 
-#### Rewards
-
-The more you contribute to the Hey community, the more you help the web become transparent, secure, and reliable. In our minds, that’s worth rewarding.
-
-For this reasons, Hey has a built-in reward system directly related to the number of people you help. Impact is measured by peer responses, which is how you earn HEY tokens \(more on this in the “Token Distribution” chapter\).
-
-#### Trophies
+**Trophies**
 
 You will be awarded a trophy each time you reach a milestone \(e.g. when you receive your first 10 likes\). Hey’s most revered trophies will be awarded to those users with the most extensive community reach.
 

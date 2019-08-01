@@ -1,3 +1,7 @@
+---
+description: The Hey.Network family
+---
+
 # Team and advisors
 
 ## Team
