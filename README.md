@@ -4,8 +4,7 @@ description: The quick nitty-gritty of what Hey is.
 
 # Abstract.
 
-The way we communicate is changing. Facebook busted down the doors to the digital social sphere. Twitter, Youtube, and Instagram followed in its footsteps and further blurred the lines between one’s private life and the public eye. But that’s been changing. Private social networks keep popping up, promising high-end encryption, no ads, and communication with only the people that matter, but end up faltering because the social aspect of social media is lost in the process.  
-
+The way we communicate is changing. Facebook busted down the doors to the digital social sphere. Twitter, Youtube, and Instagram followed in its footsteps and further blurred the lines between one’s private life and the public eye. But that’s been changing. Private social networks keep popping up, promising high-end encryption, no ads, and communication with only the people that matter, but end up faltering because the social aspect of social media is lost in the process.
 
 There has to be a stepping stone in between, a place where people don’t have to compromise privacy to connect with one another. A place where users create their value.
 

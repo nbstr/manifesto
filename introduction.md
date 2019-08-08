@@ -4,9 +4,9 @@ description: What is Hey?
 
 # Introduction
 
-Just ten years ago, social media was still considered a novelty. Even though more and more people were getting on-board, concepts like influencers, Instagram models, live news Tweets, and social media campaigns only came later, once the entire world began to realize the unfettered access that the digital sphere had to an individual. Following that explosion, people have gotten a lot more savvy about what they put out and where. But even that’s enough, not when so many of these social media giants have built their entire business model around the invasion and monetization of privacy. But even so, doesn’t it destroy the point of social media to create closed networks?
+Social media has two options - public or private. Go public, you’re doing the digital equivalent of standing outside and shouting into the void while hoping someone shouts back through thousands of people doing the same thing. There’s no control, no nuance, and anyone can interact with you.  Go private and it’s the opposite - you can’t interact with anyone and they can’t interact with you. It’s a frustrating binary between two choices without a bridge in between – until now.
 
-So what is Hey? It’s a mobile app that’s \(soon\) coming to web browsers. Consider it the next step forward for social media, giving people the tools they need to build their own places.
+Introducing Hey, where you don’t have to make that choice. Think of Hey as a building with rooms. Inside one room is your family. In another, your friends. You can seamlessly communicate with both without overlap. What does this mean for you? Well, say good-bye to friend requests from grandma or mom snooping through your timeline. And for that matter, forget overloaded dashboards too. With Hey’s unique network structure, you see - and put out - exactly what you want.
 
 ### Semi-public concept
 
